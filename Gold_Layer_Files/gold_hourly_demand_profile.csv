@@ -1,0 +1,961 @@
+Region,State_Name,Season,IsWeekend,Hour,TimePeriod,Avg_Load_MW,Max_Peak_MW,Avg_Load_Per_Capita_kW
+QLD1,Queensland,Summer,Weekday,19,Peak (4PM-9PM),7908.04,10781.99,1.4484
+QLD1,Queensland,Autumn,Weekend,9,Daytime Shoulder,5306.45,6895.02,0.9719
+SA1,South Australia,Autumn,Weekend,7,Daytime Shoulder,1229.83,1678.78,0.6648
+SA1,South Australia,Autumn,Weekday,4,Off-Peak Night,1210.94,1627.38,0.6546
+TAS1,Tasmania,Summer,Weekday,17,Peak (4PM-9PM),1135.09,1354.6,1.9914
+VIC1,Victoria,Summer,Weekend,15,Daytime Shoulder,4523.43,8983.78,0.6642
+VIC1,Victoria,Autumn,Weekday,7,Daytime Shoulder,5555.45,8032.37,0.8158
+VIC1,Victoria,Autumn,Weekend,17,Peak (4PM-9PM),5375.05,8727.62,0.7893
+SA1,South Australia,Autumn,Weekday,15,Daytime Shoulder,1203.77,2995.85,0.6507
+TAS1,Tasmania,Winter,Weekday,22,Off-Peak Night,1262.19,1555.09,2.2144
+VIC1,Victoria,Winter,Weekend,8,Daytime Shoulder,5190.11,6312.98,0.7621
+VIC1,Victoria,Spring,Weekday,17,Peak (4PM-9PM),5575.37,9285.44,0.8187
+VIC1,Victoria,Spring,Weekday,3,Off-Peak Night,4102.03,5596.07,0.6024
+QLD1,Queensland,Spring,Weekday,10,Daytime Shoulder,5426.05,8019.34,0.9938
+QLD1,Queensland,Summer,Weekday,8,Daytime Shoulder,6315.79,8103.83,1.1567
+SA1,South Australia,Summer,Weekday,10,Daytime Shoulder,1107.89,2984.24,0.5989
+TAS1,Tasmania,Summer,Weekday,21,Peak (4PM-9PM),1100.46,1280.33,1.9306
+VIC1,Victoria,Summer,Weekday,17,Peak (4PM-9PM),5820.42,10234.31,0.8547
+VIC1,Victoria,Autumn,Weekend,21,Peak (4PM-9PM),5023.05,6930.48,0.7376
+NSW1,New South Wales,Winter,Weekday,19,Peak (4PM-9PM),10716.93,14064.82,1.285
+QLD1,Queensland,Winter,Weekend,6,Off-Peak Night,5419.29,6665.42,0.9925
+QLD1,Queensland,Spring,Weekday,19,Peak (4PM-9PM),7154.76,9061.24,1.3104
+TAS1,Tasmania,Winter,Weekend,3,Off-Peak Night,1079.55,1312.51,1.8939
+NSW1,New South Wales,Spring,Weekend,5,Off-Peak Night,6179.86,7309.55,0.741
+VIC1,Victoria,Spring,Weekend,14,Daytime Shoulder,3747.89,6912.67,0.5504
+NSW1,New South Wales,Summer,Weekday,0,Off-Peak Night,7179.7,9509.29,0.8609
+QLD1,Queensland,Summer,Weekend,9,Daytime Shoulder,5564.54,7494.88,1.0191
+QLD1,Queensland,Autumn,Weekday,22,Off-Peak Night,6373.3,8291.51,1.1673
+QLD1,Queensland,Autumn,Weekend,19,Peak (4PM-9PM),6955.29,9018.36,1.2739
+QLD1,Queensland,Autumn,Weekday,20,Peak (4PM-9PM),7065.36,9505.36,1.294
+SA1,South Australia,Summer,Weekday,20,Peak (4PM-9PM),1688.06,3196.97,0.9125
+SA1,South Australia,Summer,Weekday,21,Peak (4PM-9PM),1602.82,3023.74,0.8664
+TAS1,Tasmania,Autumn,Weekday,7,Daytime Shoulder,1257.98,1644.35,2.207
+VIC1,Victoria,Autumn,Weekday,20,Peak (4PM-9PM),5722.85,8488.44,0.8404
+SA1,South Australia,Autumn,Weekend,23,Off-Peak Night,1369.63,2084.09,0.7403
+SA1,South Australia,Winter,Weekend,2,Off-Peak Night,1360.51,1667.22,0.7354
+TAS1,Tasmania,Winter,Weekend,15,Daytime Shoulder,1207.84,1470.46,2.119
+VIC1,Victoria,Winter,Weekday,8,Daytime Shoulder,6659.89,8279.75,0.978
+NSW1,New South Wales,Winter,Weekday,9,Daytime Shoulder,9311.11,12461.92,1.1164
+NSW1,New South Wales,Winter,Weekend,15,Daytime Shoulder,7776.03,10157.73,0.9324
+QLD1,Queensland,Winter,Weekday,5,Off-Peak Night,5529.99,6964.38,1.0128
+QLD1,Queensland,Spring,Weekend,10,Daytime Shoulder,4761.98,7253.72,0.8722
+VIC1,Victoria,Autumn,Weekend,9,Daytime Shoulder,4416.98,6401.54,0.6486
+NSW1,New South Wales,Autumn,Weekend,2,Off-Peak Night,6478.06,8469.21,0.7767
+QLD1,Queensland,Autumn,Weekend,5,Off-Peak Night,5302.27,6366.42,0.9711
+SA1,South Australia,Summer,Weekend,20,Peak (4PM-9PM),1570.86,2815.33,0.8491
+SA1,South Australia,Autumn,Weekday,3,Off-Peak Night,1228.49,1677.09,0.664
+TAS1,Tasmania,Autumn,Weekend,3,Off-Peak Night,993.66,1192.8,1.7433
+VIC1,Victoria,Summer,Weekday,13,Daytime Shoulder,4891.1,10317.25,0.7182
+VIC1,Victoria,Autumn,Weekend,2,Off-Peak Night,4175.91,5875.08,0.6132
+QLD1,Queensland,Winter,Weekend,11,Daytime Shoulder,4807.63,6576.46,0.8805
+TAS1,Tasmania,Winter,Weekday,10,Daytime Shoulder,1350.57,1684.97,2.3694
+QLD1,Queensland,Spring,Weekday,7,Daytime Shoulder,5857.14,7062.61,1.0727
+QLD1,Queensland,Spring,Weekday,16,Peak (4PM-9PM),6749.53,9092.88,1.2362
+TAS1,Tasmania,Spring,Weekday,3,Off-Peak Night,1008.08,1275.0,1.7686
+VIC1,Victoria,Winter,Weekend,5,Off-Peak Night,4337.56,5394.83,0.6369
+SA1,South Australia,Spring,Weekday,7,Daytime Shoulder,1362.21,2005.37,0.7363
+NSW1,New South Wales,Summer,Weekday,2,Off-Peak Night,6417.7,8311.5,0.7695
+NSW1,New South Wales,Summer,Weekday,18,Peak (4PM-9PM),9253.32,13989.88,1.1095
+SA1,South Australia,Autumn,Weekday,23,Off-Peak Night,1426.86,2000.13,0.7713
+SA1,South Australia,Autumn,Weekday,2,Off-Peak Night,1287.74,1720.79,0.6961
+SA1,South Australia,Autumn,Weekend,21,Peak (4PM-9PM),1470.04,2396.91,0.7946
+TAS1,Tasmania,Summer,Weekday,15,Daytime Shoulder,1056.31,1320.95,1.8532
+TAS1,Tasmania,Summer,Weekday,19,Peak (4PM-9PM),1141.31,1334.86,2.0023
+VIC1,Victoria,Autumn,Weekday,12,Daytime Shoulder,4873.78,9059.78,0.7157
+VIC1,Victoria,Autumn,Weekday,8,Daytime Shoulder,5588.21,7994.75,0.8206
+QLD1,Queensland,Winter,Weekday,7,Daytime Shoulder,6718.04,8039.88,1.2304
+TAS1,Tasmania,Winter,Weekday,6,Off-Peak Night,1250.17,1663.05,2.1933
+NSW1,New South Wales,Spring,Weekday,5,Off-Peak Night,6908.65,8317.71,0.8284
+NSW1,New South Wales,Spring,Weekday,6,Off-Peak Night,7524.78,9634.84,0.9023
+TAS1,Tasmania,Spring,Weekend,10,Daytime Shoulder,1092.85,1383.17,1.9173
+TAS1,Tasmania,Spring,Weekday,8,Daytime Shoulder,1217.16,1634.16,2.1354
+TAS1,Tasmania,Spring,Weekend,0,Off-Peak Night,1022.59,1242.45,1.794
+SA1,South Australia,Winter,Weekend,16,Peak (4PM-9PM),1342.92,1960.22,0.7259
+QLD1,Queensland,Summer,Weekend,4,Off-Peak Night,5472.72,6687.9,1.0023
+QLD1,Queensland,Autumn,Weekday,3,Off-Peak Night,5272.22,6450.95,0.9656
+SA1,South Australia,Summer,Weekend,11,Daytime Shoulder,864.79,2691.23,0.4675
+SA1,South Australia,Summer,Weekday,17,Peak (4PM-9PM),1552.59,3331.71,0.8392
+SA1,South Australia,Autumn,Weekday,18,Peak (4PM-9PM),1723.14,2996.55,0.9314
+SA1,South Australia,Autumn,Weekend,18,Peak (4PM-9PM),1579.52,2825.99,0.8538
+TAS1,Tasmania,Summer,Weekend,18,Peak (4PM-9PM),1123.58,1299.37,1.9712
+TAS1,Tasmania,Summer,Weekday,2,Off-Peak Night,974.28,1135.71,1.7093
+TAS1,Tasmania,Autumn,Weekday,17,Peak (4PM-9PM),1244.39,1593.73,2.1831
+VIC1,Victoria,Summer,Weekday,18,Peak (4PM-9PM),5844.12,9834.99,0.8582
+VIC1,Victoria,Summer,Weekday,9,Daytime Shoulder,4814.29,9390.66,0.7069
+VIC1,Victoria,Autumn,Weekend,7,Daytime Shoulder,4428.67,5642.48,0.6503
+VIC1,Victoria,Autumn,Weekend,0,Off-Peak Night,4679.49,6164.69,0.6871
+NSW1,New South Wales,Autumn,Weekend,7,Daytime Shoulder,6954.5,9021.4,0.8339
+SA1,South Australia,Spring,Weekend,19,Peak (4PM-9PM),1446.7,2276.8,0.782
+SA1,South Australia,Spring,Weekday,5,Off-Peak Night,1209.85,1547.79,0.654
+TAS1,Tasmania,Winter,Weekday,13,Daytime Shoulder,1231.06,1546.76,2.1597
+VIC1,Victoria,Spring,Weekend,0,Off-Peak Night,4593.23,5990.33,0.6745
+VIC1,Victoria,Spring,Weekday,4,Off-Peak Night,4198.11,5395.48,0.6165
+VIC1,Victoria,Spring,Weekend,20,Peak (4PM-9PM),5067.66,6504.34,0.7441
+NSW1,New South Wales,Summer,Weekday,22,Off-Peak Night,7994.12,11383.85,0.9585
+NSW1,New South Wales,Summer,Weekday,7,Daytime Shoulder,7883.62,11268.91,0.9453
+QLD1,Queensland,Summer,Weekend,5,Off-Peak Night,5464.68,6640.33,1.0009
+SA1,South Australia,Summer,Weekend,17,Peak (4PM-9PM),1385.3,2922.18,0.7488
+TAS1,Tasmania,Summer,Weekend,7,Daytime Shoulder,1049.38,1243.34,1.841
+TAS1,Tasmania,Autumn,Weekend,5,Off-Peak Night,1018.99,1261.46,1.7877
+VIC1,Victoria,Autumn,Weekday,17,Peak (4PM-9PM),6003.72,9455.38,0.8816
+NSW1,New South Wales,Winter,Weekday,21,Peak (4PM-9PM),9824.44,12894.49,1.178
+SA1,South Australia,Winter,Weekend,8,Daytime Shoulder,1375.3,1759.27,0.7434
+TAS1,Tasmania,Autumn,Weekend,9,Daytime Shoulder,1153.53,1501.65,2.0237
+QLD1,Queensland,Spring,Weekday,12,Daytime Shoulder,5475.63,8366.94,1.0029
+VIC1,Victoria,Winter,Weekday,11,Daytime Shoulder,5821.36,7862.05,0.8548
+VIC1,Victoria,Spring,Weekend,18,Peak (4PM-9PM),5141.13,6908.95,0.7549
+QLD1,Queensland,Spring,Weekend,19,Peak (4PM-9PM),6756.6,8266.48,1.2375
+QLD1,Queensland,Spring,Weekday,9,Daytime Shoulder,5521.39,7836.55,1.0112
+SA1,South Australia,Spring,Weekend,22,Off-Peak Night,1300.82,1873.36,0.7031
+VIC1,Victoria,Spring,Weekday,2,Off-Peak Night,4207.61,5911.26,0.6179
+NSW1,New South Wales,Summer,Weekend,4,Off-Peak Night,6214.13,7889.64,0.7451
+QLD1,Queensland,Summer,Weekend,22,Off-Peak Night,6612.6,8730.75,1.2111
+SA1,South Australia,Autumn,Weekday,5,Off-Peak Night,1241.18,1739.11,0.6709
+VIC1,Victoria,Summer,Weekend,20,Peak (4PM-9PM),5170.82,8621.12,0.7593
+VIC1,Victoria,Summer,Weekday,6,Off-Peak Night,4966.9,7277.76,0.7294
+VIC1,Victoria,Summer,Weekday,5,Off-Peak Night,4543.35,6442.66,0.6672
+VIC1,Victoria,Autumn,Weekend,22,Off-Peak Night,4758.03,6312.5,0.6987
+NSW1,New South Wales,Winter,Weekday,11,Daytime Shoulder,8341.16,11950.42,1.0001
+NSW1,New South Wales,Winter,Weekend,19,Peak (4PM-9PM),9932.32,12568.72,1.1909
+TAS1,Tasmania,Winter,Weekend,21,Peak (4PM-9PM),1309.52,1575.27,2.2974
+VIC1,Victoria,Winter,Weekday,3,Off-Peak Night,4505.7,5912.28,0.6616
+VIC1,Victoria,Winter,Weekend,16,Peak (4PM-9PM),5377.82,6632.77,0.7897
+NSW1,New South Wales,Spring,Weekday,21,Peak (4PM-9PM),7993.48,11035.77,0.9585
+NSW1,New South Wales,Spring,Weekend,17,Peak (4PM-9PM),7869.4,12401.82,0.9436
+VIC1,Victoria,Summer,Weekend,21,Peak (4PM-9PM),4893.72,8119.29,0.7186
+NSW1,New South Wales,Summer,Weekend,19,Peak (4PM-9PM),8567.91,13182.2,1.0273
+SA1,South Australia,Autumn,Weekday,20,Peak (4PM-9PM),1664.11,2757.22,0.8995
+VIC1,Victoria,Autumn,Weekday,2,Off-Peak Night,4262.57,5912.55,0.6259
+VIC1,Victoria,Autumn,Weekday,19,Peak (4PM-9PM),6016.45,8837.11,0.8835
+VIC1,Victoria,Autumn,Weekend,18,Peak (4PM-9PM),5625.12,8697.8,0.826
+NSW1,New South Wales,Autumn,Weekend,15,Daytime Shoulder,7428.63,11396.46,0.8907
+QLD1,Queensland,Winter,Weekday,20,Peak (4PM-9PM),7064.99,8364.72,1.294
+NSW1,New South Wales,Summer,Weekday,17,Peak (4PM-9PM),9425.82,14440.04,1.1302
+NSW1,New South Wales,Autumn,Weekend,3,Off-Peak Night,6233.21,7763.11,0.7474
+QLD1,Queensland,Autumn,Weekday,4,Off-Peak Night,5336.93,6547.48,0.9775
+QLD1,Queensland,Autumn,Weekend,14,Daytime Shoulder,5630.85,8351.21,1.0313
+QLD1,Queensland,Autumn,Weekday,0,Off-Peak Night,5672.72,6983.27,1.039
+QLD1,Queensland,Winter,Weekend,18,Peak (4PM-9PM),6925.1,7890.35,1.2683
+QLD1,Queensland,Winter,Weekday,3,Off-Peak Night,5084.45,5920.55,0.9312
+QLD1,Queensland,Winter,Weekday,19,Peak (4PM-9PM),7226.0,8792.2,1.3234
+TAS1,Tasmania,Winter,Weekend,17,Peak (4PM-9PM),1370.85,1604.45,2.405
+QLD1,Queensland,Spring,Weekday,3,Off-Peak Night,5085.69,6121.57,0.9314
+SA1,South Australia,Winter,Weekday,23,Off-Peak Night,1602.8,2049.97,0.8664
+SA1,South Australia,Winter,Weekend,6,Off-Peak Night,1229.38,1536.29,0.6645
+SA1,South Australia,Spring,Weekday,12,Daytime Shoulder,913.15,2821.23,0.4936
+SA1,South Australia,Spring,Weekend,4,Off-Peak Night,1112.32,1524.37,0.6013
+TAS1,Tasmania,Spring,Weekend,22,Off-Peak Night,1091.81,1376.63,1.9155
+NSW1,New South Wales,Summer,Weekday,13,Daytime Shoulder,8232.5,13872.01,0.9871
+NSW1,New South Wales,Autumn,Weekday,11,Daytime Shoulder,7532.05,11175.79,0.9031
+SA1,South Australia,Summer,Weekday,18,Peak (4PM-9PM),1685.57,3326.91,0.9111
+SA1,South Australia,Summer,Weekday,14,Daytime Shoulder,1138.56,3338.73,0.6154
+TAS1,Tasmania,Summer,Weekday,14,Daytime Shoulder,1033.02,1282.21,1.8123
+TAS1,Tasmania,Autumn,Weekday,21,Peak (4PM-9PM),1177.7,1592.4,2.0661
+QLD1,Queensland,Winter,Weekend,20,Peak (4PM-9PM),6662.94,7684.83,1.2203
+QLD1,Queensland,Winter,Weekend,22,Off-Peak Night,6075.17,6942.14,1.1127
+VIC1,Victoria,Winter,Weekend,14,Daytime Shoulder,4746.8,6413.02,0.697
+NSW1,New South Wales,Spring,Weekend,10,Daytime Shoulder,6270.96,10636.61,0.7519
+NSW1,New South Wales,Spring,Weekday,14,Daytime Shoulder,7288.61,12929.03,0.8739
+NSW1,New South Wales,Spring,Weekend,19,Peak (4PM-9PM),8167.58,11788.64,0.9793
+SA1,South Australia,Spring,Weekday,0,Off-Peak Night,1419.95,1935.25,0.7675
+TAS1,Tasmania,Autumn,Weekend,22,Off-Peak Night,1100.64,1376.37,1.9309
+SA1,South Australia,Summer,Weekday,6,Off-Peak Night,1384.46,2178.0,0.7484
+SA1,South Australia,Autumn,Weekend,6,Off-Peak Night,1201.32,1696.35,0.6494
+TAS1,Tasmania,Summer,Weekend,1,Off-Peak Night,974.45,1155.98,1.7096
+VIC1,Victoria,Autumn,Weekend,1,Off-Peak Night,4402.62,6084.77,0.6465
+VIC1,Victoria,Autumn,Weekend,12,Daytime Shoulder,4027.52,7309.64,0.5914
+NSW1,New South Wales,Winter,Weekday,20,Peak (4PM-9PM),10332.07,13425.11,1.2389
+TAS1,Tasmania,Winter,Weekday,1,Off-Peak Night,1093.87,1357.48,1.9191
+NSW1,New South Wales,Winter,Weekend,0,Off-Peak Night,8335.4,10467.66,0.9994
+NSW1,New South Wales,Spring,Weekend,4,Off-Peak Night,6056.9,7285.68,0.7262
+SA1,South Australia,Spring,Weekday,13,Daytime Shoulder,899.49,2932.91,0.4862
+VIC1,Victoria,Spring,Weekend,21,Peak (4PM-9PM),4815.99,6190.09,0.7072
+NSW1,New South Wales,Autumn,Weekend,20,Peak (4PM-9PM),8188.53,10873.9,0.9818
+QLD1,Queensland,Summer,Weekend,13,Daytime Shoulder,5971.86,8520.6,1.0937
+QLD1,Queensland,Summer,Weekday,4,Off-Peak Night,5568.99,6811.67,1.02
+SA1,South Australia,Autumn,Weekday,0,Off-Peak Night,1485.19,2044.12,0.8028
+SA1,South Australia,Autumn,Weekend,22,Off-Peak Night,1395.63,2211.43,0.7544
+TAS1,Tasmania,Summer,Weekday,1,Off-Peak Night,977.6,1151.34,1.7151
+QLD1,Queensland,Winter,Weekday,4,Off-Peak Night,5177.66,6219.16,0.9483
+TAS1,Tasmania,Winter,Weekend,7,Daytime Shoulder,1194.46,1542.03,2.0955
+NSW1,New South Wales,Spring,Weekday,0,Off-Peak Night,7184.77,9434.62,0.8615
+SA1,South Australia,Winter,Weekend,14,Daytime Shoulder,1104.73,1874.85,0.5972
+SA1,South Australia,Winter,Weekend,10,Daytime Shoulder,1274.38,1885.43,0.6889
+NSW1,New South Wales,Spring,Weekday,20,Peak (4PM-9PM),8343.79,11358.21,1.0005
+NSW1,New South Wales,Spring,Weekend,23,Off-Peak Night,7114.05,9629.1,0.853
+QLD1,Queensland,Spring,Weekend,2,Off-Peak Night,5098.06,6227.36,0.9337
+TAS1,Tasmania,Spring,Weekend,6,Off-Peak Night,1071.88,1292.36,1.8805
+VIC1,Victoria,Spring,Weekend,4,Off-Peak Night,3935.38,5106.75,0.5779
+VIC1,Victoria,Spring,Weekend,5,Off-Peak Night,4027.75,5078.22,0.5914
+NSW1,New South Wales,Summer,Weekday,4,Off-Peak Night,6548.89,8291.96,0.7852
+NSW1,New South Wales,Autumn,Weekend,16,Peak (4PM-9PM),7991.26,12000.75,0.9582
+SA1,South Australia,Autumn,Weekday,22,Off-Peak Night,1477.34,2270.79,0.7986
+TAS1,Tasmania,Summer,Weekday,7,Daytime Shoulder,1137.75,1458.82,1.9961
+TAS1,Tasmania,Autumn,Weekday,18,Peak (4PM-9PM),1283.09,1659.83,2.251
+VIC1,Victoria,Summer,Weekend,5,Off-Peak Night,4003.36,5534.73,0.5879
+VIC1,Victoria,Autumn,Weekday,21,Peak (4PM-9PM),5378.7,7727.35,0.7898
+VIC1,Victoria,Winter,Weekday,1,Off-Peak Night,4930.37,6463.15,0.724
+QLD1,Queensland,Winter,Weekend,0,Off-Peak Night,5565.83,6274.22,1.0194
+SA1,South Australia,Winter,Weekday,10,Daytime Shoulder,1540.99,2320.22,0.833
+SA1,South Australia,Spring,Weekday,4,Off-Peak Night,1161.64,1524.1,0.6279
+TAS1,Tasmania,Winter,Weekend,5,Off-Peak Night,1099.94,1340.78,1.9297
+TAS1,Tasmania,Autumn,Weekend,14,Daytime Shoulder,1048.62,1319.5,1.8397
+NSW1,New South Wales,Autumn,Weekday,23,Off-Peak Night,7740.57,9878.67,0.9281
+TAS1,Tasmania,Summer,Weekday,5,Off-Peak Night,1054.35,1323.75,1.8497
+VIC1,Victoria,Summer,Weekday,16,Peak (4PM-9PM),5614.94,10385.75,0.8245
+VIC1,Victoria,Summer,Weekday,4,Off-Peak Night,4192.3,6036.39,0.6156
+NSW1,New South Wales,Winter,Weekend,9,Daytime Shoulder,8374.63,11419.34,1.0042
+SA1,South Australia,Autumn,Weekend,19,Peak (4PM-9PM),1597.56,2760.95,0.8635
+QLD1,Queensland,Spring,Weekday,13,Daytime Shoulder,5611.29,8523.09,1.0277
+SA1,South Australia,Spring,Weekday,17,Peak (4PM-9PM),1359.33,2997.03,0.7348
+SA1,South Australia,Spring,Weekend,23,Off-Peak Night,1280.87,1766.2,0.6924
+TAS1,Tasmania,Spring,Weekend,8,Daytime Shoulder,1132.05,1366.71,1.9861
+NSW1,New South Wales,Autumn,Weekend,4,Off-Peak Night,6184.77,7313.58,0.7416
+NSW1,New South Wales,Autumn,Weekday,18,Peak (4PM-9PM),9368.11,12959.33,1.1233
+QLD1,Queensland,Summer,Weekend,23,Off-Peak Night,6274.96,8058.3,1.1493
+QLD1,Queensland,Autumn,Weekday,6,Off-Peak Night,6052.31,7579.06,1.1085
+SA1,South Australia,Autumn,Weekday,6,Off-Peak Night,1344.31,1881.28,0.7267
+TAS1,Tasmania,Summer,Weekday,0,Off-Peak Night,988.83,1172.13,1.7348
+TAS1,Tasmania,Autumn,Weekday,8,Daytime Shoulder,1258.09,1727.19,2.2072
+VIC1,Victoria,Summer,Weekend,17,Peak (4PM-9PM),5269.0,9432.54,0.7737
+VIC1,Victoria,Summer,Weekday,22,Off-Peak Night,4780.03,7967.0,0.7019
+VIC1,Victoria,Autumn,Weekday,11,Daytime Shoulder,4921.96,8782.98,0.7228
+NSW1,New South Wales,Winter,Weekday,0,Off-Peak Night,8369.41,10509.3,1.0035
+SA1,South Australia,Winter,Weekend,13,Daytime Shoulder,1084.34,1779.44,0.5861
+VIC1,Victoria,Spring,Weekday,14,Daytime Shoulder,4656.91,9036.82,0.6838
+SA1,South Australia,Spring,Weekend,12,Daytime Shoulder,700.12,2476.84,0.3784
+NSW1,New South Wales,Summer,Weekend,17,Peak (4PM-9PM),8715.57,13634.63,1.045
+TAS1,Tasmania,Autumn,Weekend,23,Off-Peak Night,1051.88,1314.23,1.8454
+NSW1,New South Wales,Summer,Weekend,14,Daytime Shoulder,7489.03,12907.67,0.898
+SA1,South Australia,Autumn,Weekday,1,Off-Peak Night,1394.61,1817.38,0.7538
+TAS1,Tasmania,Summer,Weekend,19,Peak (4PM-9PM),1122.84,1278.12,1.9699
+VIC1,Victoria,Winter,Weekday,15,Daytime Shoulder,5821.95,7805.74,0.8549
+NSW1,New South Wales,Winter,Weekend,6,Off-Peak Night,7301.15,8979.32,0.8754
+NSW1,New South Wales,Spring,Weekday,17,Peak (4PM-9PM),8605.93,12476.35,1.0319
+SA1,South Australia,Winter,Weekend,19,Peak (4PM-9PM),1878.54,2314.99,1.0154
+VIC1,Victoria,Spring,Weekday,6,Off-Peak Night,5167.55,6761.37,0.7588
+QLD1,Queensland,Summer,Weekday,23,Off-Peak Night,6402.64,8185.08,1.1726
+TAS1,Tasmania,Autumn,Weekend,18,Peak (4PM-9PM),1252.08,1550.76,2.1966
+TAS1,Tasmania,Autumn,Weekend,6,Off-Peak Night,1056.18,1351.17,1.8529
+VIC1,Victoria,Summer,Weekday,0,Off-Peak Night,4546.82,7179.81,0.6677
+VIC1,Victoria,Autumn,Weekday,23,Off-Peak Night,4963.14,6422.49,0.7288
+NSW1,New South Wales,Winter,Weekday,3,Off-Peak Night,7090.6,8905.76,0.8502
+QLD1,Queensland,Winter,Weekend,1,Off-Peak Night,5299.73,5917.83,0.9706
+TAS1,Tasmania,Winter,Weekday,19,Peak (4PM-9PM),1435.22,1712.8,2.5179
+QLD1,Queensland,Spring,Weekend,22,Off-Peak Night,5965.77,7069.96,1.0926
+QLD1,Queensland,Spring,Weekend,12,Daytime Shoulder,4779.12,7675.08,0.8753
+SA1,South Australia,Spring,Weekday,18,Peak (4PM-9PM),1531.1,2894.36,0.8276
+QLD1,Queensland,Autumn,Weekend,18,Peak (4PM-9PM),7126.02,9128.98,1.3051
+SA1,South Australia,Summer,Weekend,21,Peak (4PM-9PM),1503.88,2683.23,0.8129
+TAS1,Tasmania,Autumn,Weekend,17,Peak (4PM-9PM),1215.04,1565.97,2.1317
+TAS1,Tasmania,Autumn,Weekend,7,Daytime Shoulder,1107.11,1459.98,1.9423
+NSW1,New South Wales,Autumn,Weekday,17,Peak (4PM-9PM),9185.04,13118.73,1.1013
+VIC1,Victoria,Winter,Weekday,18,Peak (4PM-9PM),7046.17,8348.93,1.0347
+SA1,South Australia,Winter,Weekend,3,Off-Peak Night,1262.4,1527.38,0.6824
+TAS1,Tasmania,Winter,Weekend,11,Daytime Shoulder,1250.18,1514.4,2.1933
+VIC1,Victoria,Spring,Weekend,17,Peak (4PM-9PM),4852.44,7007.44,0.7125
+NSW1,New South Wales,Spring,Weekend,1,Off-Peak Night,6681.29,9176.06,0.8011
+NSW1,New South Wales,Summer,Weekday,12,Daytime Shoulder,8047.95,13697.85,0.965
+NSW1,New South Wales,Summer,Weekend,11,Daytime Shoulder,6934.77,12443.33,0.8315
+NSW1,New South Wales,Autumn,Weekend,1,Off-Peak Night,6879.53,8981.55,0.8249
+QLD1,Queensland,Summer,Weekday,5,Off-Peak Night,5725.14,7093.41,1.0486
+TAS1,Tasmania,Autumn,Weekday,2,Off-Peak Night,994.13,1240.19,1.7441
+VIC1,Victoria,Autumn,Weekday,4,Off-Peak Night,4181.93,5478.63,0.6141
+NSW1,New South Wales,Winter,Weekday,8,Daytime Shoulder,9864.05,12677.48,1.1827
+SA1,South Australia,Winter,Weekend,4,Off-Peak Night,1212.14,1504.53,0.6552
+TAS1,Tasmania,Winter,Weekend,20,Peak (4PM-9PM),1354.75,1594.95,2.3768
+TAS1,Tasmania,Winter,Weekday,16,Peak (4PM-9PM),1311.78,1636.04,2.3014
+VIC1,Victoria,Autumn,Weekend,8,Daytime Shoulder,4504.87,6130.63,0.6615
+VIC1,Victoria,Winter,Weekend,2,Off-Peak Night,4622.13,6261.13,0.6787
+VIC1,Victoria,Winter,Weekend,11,Daytime Shoulder,4826.52,6733.26,0.7087
+NSW1,New South Wales,Winter,Weekend,2,Off-Peak Night,7341.48,9311.79,0.8803
+TAS1,Tasmania,Winter,Weekend,4,Off-Peak Night,1082.42,1310.82,1.899
+VIC1,Victoria,Spring,Weekday,0,Off-Peak Night,4620.98,6012.21,0.6786
+NSW1,New South Wales,Spring,Weekend,12,Daytime Shoulder,6080.84,11170.1,0.7291
+SA1,South Australia,Spring,Weekday,9,Daytime Shoulder,1125.66,2432.64,0.6085
+NSW1,New South Wales,Summer,Weekday,15,Daytime Shoulder,8900.79,14408.45,1.0672
+NSW1,New South Wales,Autumn,Weekend,14,Daytime Shoulder,6994.57,11106.72,0.8387
+QLD1,Queensland,Autumn,Weekday,13,Daytime Shoulder,5991.96,8516.25,1.0974
+SA1,South Australia,Autumn,Weekend,5,Off-Peak Night,1171.01,1654.55,0.633
+TAS1,Tasmania,Summer,Weekday,23,Off-Peak Night,1011.54,1204.92,1.7746
+TAS1,Tasmania,Autumn,Weekday,0,Off-Peak Night,1018.34,1279.45,1.7866
+NSW1,New South Wales,Winter,Weekend,5,Off-Peak Night,6880.59,8079.89,0.825
+SA1,South Australia,Winter,Weekend,22,Off-Peak Night,1619.01,2014.23,0.8751
+TAS1,Tasmania,Winter,Weekday,0,Off-Peak Night,1120.5,1387.65,1.9658
+TAS1,Tasmania,Winter,Weekday,12,Daytime Shoulder,1252.83,1542.88,2.1979
+SA1,South Australia,Spring,Weekday,22,Off-Peak Night,1393.67,2126.13,0.7533
+TAS1,Tasmania,Spring,Weekday,7,Daytime Shoulder,1254.25,1596.7,2.2004
+TAS1,Tasmania,Spring,Weekday,21,Peak (4PM-9PM),1167.79,1513.93,2.0488
+VIC1,Victoria,Winter,Weekend,0,Off-Peak Night,5235.53,6476.3,0.7688
+TAS1,Tasmania,Spring,Weekend,13,Daytime Shoulder,1019.15,1306.78,1.788
+NSW1,New South Wales,Autumn,Weekday,22,Off-Peak Night,7987.35,10365.89,0.9577
+QLD1,Queensland,Summer,Weekday,20,Peak (4PM-9PM),7664.97,10259.72,1.4038
+QLD1,Queensland,Summer,Weekend,17,Peak (4PM-9PM),7401.68,10250.17,1.3556
+QLD1,Queensland,Autumn,Weekday,5,Off-Peak Night,5597.51,6842.54,1.0252
+TAS1,Tasmania,Summer,Weekend,3,Off-Peak Night,968.84,1146.31,1.6997
+VIC1,Victoria,Autumn,Weekend,6,Off-Peak Night,4257.89,5439.41,0.6252
+NSW1,New South Wales,Winter,Weekend,18,Peak (4PM-9PM),10144.41,12510.91,1.2164
+NSW1,New South Wales,Winter,Weekday,13,Daytime Shoulder,8072.22,11462.5,0.9679
+QLD1,Queensland,Winter,Weekday,8,Daytime Shoulder,6434.77,7845.03,1.1785
+SA1,South Australia,Winter,Weekend,20,Peak (4PM-9PM),1813.89,2205.05,0.9805
+SA1,South Australia,Winter,Weekday,15,Daytime Shoulder,1386.11,2392.38,0.7492
+NSW1,New South Wales,Spring,Weekday,23,Off-Peak Night,7547.18,9999.59,0.9049
+VIC1,Victoria,Spring,Weekday,23,Off-Peak Night,4814.22,6308.51,0.7069
+VIC1,Victoria,Spring,Weekday,13,Daytime Shoulder,4569.53,8886.23,0.671
+NSW1,New South Wales,Autumn,Weekday,10,Daytime Shoulder,7674.75,10999.54,0.9202
+QLD1,Queensland,Summer,Weekday,14,Daytime Shoulder,6933.28,9924.43,1.2698
+QLD1,Queensland,Autumn,Weekend,2,Off-Peak Night,5290.47,6446.95,0.969
+SA1,South Australia,Autumn,Weekday,7,Daytime Shoulder,1468.71,2144.5,0.7939
+TAS1,Tasmania,Summer,Weekend,20,Peak (4PM-9PM),1119.58,1263.96,1.9642
+TAS1,Tasmania,Summer,Weekday,20,Peak (4PM-9PM),1136.91,1332.51,1.9946
+TAS1,Tasmania,Summer,Weekday,3,Off-Peak Night,976.36,1156.61,1.7129
+TAS1,Tasmania,Autumn,Weekend,20,Peak (4PM-9PM),1194.6,1508.2,2.0958
+VIC1,Victoria,Summer,Weekend,6,Off-Peak Night,4069.2,5667.47,0.5975
+NSW1,New South Wales,Winter,Weekday,16,Peak (4PM-9PM),9251.35,12582.5,1.1093
+QLD1,Queensland,Winter,Weekday,0,Off-Peak Night,5554.43,6354.76,1.0173
+QLD1,Queensland,Winter,Weekend,19,Peak (4PM-9PM),6804.61,7839.16,1.2463
+TAS1,Tasmania,Autumn,Weekend,10,Daytime Shoulder,1123.65,1469.76,1.9713
+TAS1,Tasmania,Winter,Weekend,14,Daytime Shoulder,1184.59,1465.33,2.0782
+TAS1,Tasmania,Winter,Weekend,2,Off-Peak Night,1083.64,1309.14,1.9011
+NSW1,New South Wales,Spring,Weekday,4,Off-Peak Night,6395.49,7539.2,0.7668
+QLD1,Queensland,Winter,Weekday,1,Off-Peak Night,5299.19,6076.63,0.9705
+VIC1,Victoria,Spring,Weekday,8,Daytime Shoulder,5211.43,7762.41,0.7653
+VIC1,Victoria,Spring,Weekday,20,Peak (4PM-9PM),5542.72,8110.5,0.8139
+VIC1,Victoria,Spring,Weekday,16,Peak (4PM-9PM),5232.44,9325.98,0.7683
+TAS1,Tasmania,Spring,Weekend,17,Peak (4PM-9PM),1166.59,1412.81,2.0466
+QLD1,Queensland,Autumn,Weekend,6,Off-Peak Night,5412.78,6315.09,0.9914
+NSW1,New South Wales,Autumn,Weekend,22,Off-Peak Night,7622.8,9491.04,0.914
+QLD1,Queensland,Summer,Weekday,1,Off-Peak Night,5759.12,7175.99,1.0548
+SA1,South Australia,Summer,Weekend,5,Off-Peak Night,1196.43,1688.87,0.6467
+SA1,South Australia,Summer,Weekday,12,Daytime Shoulder,1052.99,3186.97,0.5692
+TAS1,Tasmania,Summer,Weekend,22,Off-Peak Night,1042.19,1183.79,1.8284
+VIC1,Victoria,Autumn,Weekday,15,Daytime Shoulder,5263.28,9583.51,0.7729
+QLD1,Queensland,Winter,Weekday,21,Peak (4PM-9PM),6729.11,8004.59,1.2324
+SA1,South Australia,Autumn,Weekend,2,Off-Peak Night,1259.79,1791.82,0.681
+SA1,South Australia,Winter,Weekday,2,Off-Peak Night,1386.5,1679.56,0.7495
+NSW1,New South Wales,Spring,Weekday,16,Peak (4PM-9PM),8196.81,13002.09,0.9828
+SA1,South Australia,Winter,Weekend,18,Peak (4PM-9PM),1833.48,2346.4,0.9911
+TAS1,Tasmania,Spring,Weekend,19,Peak (4PM-9PM),1218.4,1494.95,2.1375
+VIC1,Victoria,Winter,Weekday,13,Daytime Shoulder,5635.61,7939.41,0.8275
+VIC1,Victoria,Spring,Weekday,10,Daytime Shoulder,4734.78,8451.93,0.6953
+NSW1,New South Wales,Summer,Weekend,18,Peak (4PM-9PM),8714.98,13588.73,1.045
+NSW1,New South Wales,Summer,Weekday,3,Off-Peak Night,6346.96,8057.52,0.761
+NSW1,New South Wales,Summer,Weekend,5,Off-Peak Night,6322.35,7890.4,0.7581
+TAS1,Tasmania,Autumn,Weekday,20,Peak (4PM-9PM),1226.85,1613.89,2.1524
+VIC1,Victoria,Summer,Weekend,19,Peak (4PM-9PM),5311.61,8969.64,0.78
+VIC1,Victoria,Autumn,Weekend,23,Off-Peak Night,4759.23,5988.26,0.6989
+NSW1,New South Wales,Autumn,Weekend,12,Daytime Shoulder,6699.01,10526.03,0.8032
+TAS1,Tasmania,Winter,Weekend,19,Peak (4PM-9PM),1391.57,1650.58,2.4414
+VIC1,Victoria,Winter,Weekday,16,Peak (4PM-9PM),6183.95,7946.57,0.9081
+QLD1,Queensland,Winter,Weekend,2,Off-Peak Night,5113.88,5772.66,0.9366
+QLD1,Queensland,Winter,Weekend,9,Daytime Shoulder,5286.92,6599.83,0.9683
+QLD1,Queensland,Spring,Weekday,8,Daytime Shoulder,5722.03,7451.66,1.048
+TAS1,Tasmania,Winter,Weekend,22,Off-Peak Night,1241.85,1492.97,2.1787
+VIC1,Victoria,Winter,Weekend,17,Peak (4PM-9PM),5952.53,7355.29,0.8741
+TAS1,Tasmania,Spring,Weekday,14,Daytime Shoulder,1060.89,1372.35,1.8612
+VIC1,Victoria,Spring,Weekend,22,Off-Peak Night,4558.83,5830.5,0.6694
+VIC1,Victoria,Winter,Weekend,3,Off-Peak Night,4402.24,5800.29,0.6464
+NSW1,New South Wales,Autumn,Weekday,21,Peak (4PM-9PM),8268.64,11305.49,0.9914
+QLD1,Queensland,Summer,Weekday,9,Daytime Shoulder,6306.4,8303.54,1.155
+SA1,South Australia,Summer,Weekend,2,Off-Peak Night,1254.4,1806.89,0.6781
+SA1,South Australia,Autumn,Weekend,8,Daytime Shoulder,1176.08,1745.68,0.6357
+TAS1,Tasmania,Summer,Weekend,16,Peak (4PM-9PM),1067.75,1304.03,1.8732
+TAS1,Tasmania,Autumn,Weekday,22,Off-Peak Night,1115.41,1505.86,1.9569
+VIC1,Victoria,Summer,Weekday,14,Daytime Shoulder,5041.56,10346.02,0.7403
+NSW1,New South Wales,Autumn,Weekend,21,Peak (4PM-9PM),7874.86,10153.1,0.9442
+QLD1,Queensland,Winter,Weekday,12,Daytime Shoulder,5271.74,7587.1,0.9655
+QLD1,Queensland,Winter,Weekday,2,Off-Peak Night,5136.69,5945.14,0.9408
+SA1,South Australia,Autumn,Weekday,11,Daytime Shoulder,1118.68,2697.89,0.6047
+TAS1,Tasmania,Winter,Weekday,8,Daytime Shoulder,1470.68,1771.02,2.5801
+NSW1,New South Wales,Winter,Weekend,4,Off-Peak Night,6769.89,7866.03,0.8117
+NSW1,New South Wales,Spring,Weekend,22,Off-Peak Night,7367.96,9874.25,0.8834
+SA1,South Australia,Spring,Weekday,20,Peak (4PM-9PM),1577.61,2644.87,0.8528
+TAS1,Tasmania,Winter,Weekend,23,Off-Peak Night,1170.61,1414.22,2.0537
+TAS1,Tasmania,Spring,Weekday,5,Off-Peak Night,1109.48,1456.01,1.9465
+VIC1,Victoria,Spring,Weekday,9,Daytime Shoulder,4942.4,8126.96,0.7258
+NSW1,New South Wales,Spring,Weekend,2,Off-Peak Night,6295.89,8672.76,0.7549
+TAS1,Tasmania,Spring,Weekend,21,Peak (4PM-9PM),1150.61,1428.26,2.0186
+QLD1,Queensland,Summer,Weekday,21,Peak (4PM-9PM),7271.57,9634.41,1.3318
+QLD1,Queensland,Summer,Weekend,11,Daytime Shoulder,5675.05,7910.67,1.0394
+QLD1,Queensland,Summer,Weekend,19,Peak (4PM-9PM),7527.45,10132.56,1.3787
+SA1,South Australia,Summer,Weekday,7,Daytime Shoulder,1398.78,2441.68,0.7561
+TAS1,Tasmania,Summer,Weekday,16,Peak (4PM-9PM),1098.11,1334.2,1.9265
+TAS1,Tasmania,Summer,Weekend,4,Off-Peak Night,976.18,1153.78,1.7126
+VIC1,Victoria,Summer,Weekend,7,Daytime Shoulder,4046.54,6027.88,0.5942
+VIC1,Victoria,Summer,Weekday,8,Daytime Shoulder,4953.32,8863.87,0.7274
+VIC1,Victoria,Summer,Weekday,12,Daytime Shoulder,4779.18,10414.86,0.7018
+VIC1,Victoria,Autumn,Weekday,5,Off-Peak Night,4480.15,6054.95,0.6579
+TAS1,Tasmania,Winter,Weekday,3,Off-Peak Night,1087.49,1369.19,1.9079
+VIC1,Victoria,Winter,Weekday,7,Daytime Shoulder,6269.62,8241.39,0.9206
+QLD1,Queensland,Winter,Weekend,4,Off-Peak Night,5052.83,5895.49,0.9254
+SA1,South Australia,Winter,Weekend,7,Daytime Shoulder,1302.15,1662.58,0.7039
+SA1,South Australia,Winter,Weekend,1,Off-Peak Night,1508.93,1926.98,0.8156
+VIC1,Victoria,Spring,Weekend,12,Daytime Shoulder,3656.71,6705.02,0.537
+TAS1,Tasmania,Spring,Weekend,5,Off-Peak Night,1039.86,1274.18,1.8243
+TAS1,Tasmania,Spring,Weekend,20,Peak (4PM-9PM),1197.23,1464.72,2.1004
+NSW1,New South Wales,Autumn,Weekend,8,Daytime Shoulder,7147.45,9671.82,0.857
+QLD1,Queensland,Autumn,Weekday,10,Daytime Shoulder,5790.24,7968.92,1.0605
+SA1,South Australia,Summer,Weekend,13,Daytime Shoulder,884.95,2766.96,0.4784
+SA1,South Australia,Summer,Weekday,1,Off-Peak Night,1393.08,2202.61,0.753
+VIC1,Victoria,Summer,Weekend,4,Off-Peak Night,3929.09,5444.71,0.577
+VIC1,Victoria,Autumn,Weekend,14,Daytime Shoulder,4187.41,7847.46,0.6149
+NSW1,New South Wales,Autumn,Weekend,5,Off-Peak Night,6323.61,7586.57,0.7582
+NSW1,New South Wales,Winter,Weekday,6,Off-Peak Night,8546.96,11129.99,1.0248
+TAS1,Tasmania,Winter,Weekday,15,Daytime Shoulder,1258.02,1564.25,2.2071
+VIC1,Victoria,Winter,Weekend,10,Daytime Shoulder,5081.14,6774.97,0.7461
+SA1,South Australia,Winter,Weekday,19,Peak (4PM-9PM),2052.19,2525.59,1.1093
+TAS1,Tasmania,Winter,Weekday,14,Daytime Shoulder,1237.93,1549.88,2.1718
+VIC1,Victoria,Spring,Weekend,13,Daytime Shoulder,3649.04,6629.35,0.5358
+SA1,South Australia,Spring,Weekend,1,Off-Peak Night,1317.55,1698.79,0.7122
+NSW1,New South Wales,Autumn,Weekday,14,Daytime Shoulder,7809.12,11780.9,0.9363
+SA1,South Australia,Summer,Weekday,9,Daytime Shoulder,1187.8,2843.1,0.6421
+SA1,South Australia,Summer,Weekday,16,Peak (4PM-9PM),1380.82,3385.42,0.7464
+SA1,South Australia,Summer,Weekday,3,Off-Peak Night,1256.72,1966.02,0.6793
+QLD1,Queensland,Autumn,Weekday,9,Daytime Shoulder,5927.54,7680.77,1.0856
+SA1,South Australia,Winter,Weekday,1,Off-Peak Night,1520.14,1902.31,0.8217
+VIC1,Victoria,Winter,Weekday,17,Peak (4PM-9PM),6711.77,8370.47,0.9856
+NSW1,New South Wales,Winter,Weekend,7,Daytime Shoulder,7903.6,9804.17,0.9477
+QLD1,Queensland,Spring,Weekday,22,Off-Peak Night,6185.67,7530.78,1.1329
+VIC1,Victoria,Winter,Weekday,5,Off-Peak Night,4713.27,5908.65,0.6921
+NSW1,New South Wales,Spring,Weekday,11,Daytime Shoulder,7036.79,12836.46,0.8437
+TAS1,Tasmania,Spring,Weekday,16,Peak (4PM-9PM),1135.7,1411.91,1.9925
+TAS1,Tasmania,Spring,Weekend,14,Daytime Shoulder,1025.54,1291.82,1.7992
+SA1,South Australia,Summer,Weekend,6,Off-Peak Night,1192.59,1690.43,0.6446
+SA1,South Australia,Autumn,Weekday,17,Peak (4PM-9PM),1564.83,3038.13,0.8459
+TAS1,Tasmania,Summer,Weekday,6,Off-Peak Night,1124.21,1402.48,1.9723
+TAS1,Tasmania,Summer,Weekend,10,Daytime Shoulder,1032.56,1259.79,1.8115
+VIC1,Victoria,Summer,Weekend,2,Off-Peak Night,4059.17,5868.57,0.5961
+NSW1,New South Wales,Winter,Weekday,18,Peak (4PM-9PM),10945.47,14274.15,1.3124
+NSW1,New South Wales,Winter,Weekday,15,Daytime Shoulder,8546.58,11676.7,1.0248
+SA1,South Australia,Winter,Weekday,14,Daytime Shoulder,1320.65,2350.1,0.7139
+VIC1,Victoria,Winter,Weekend,23,Off-Peak Night,5261.47,6404.04,0.7726
+NSW1,New South Wales,Spring,Weekday,10,Daytime Shoulder,7136.97,12273.49,0.8558
+SA1,South Australia,Winter,Weekday,5,Off-Peak Night,1269.06,1600.31,0.686
+TAS1,Tasmania,Spring,Weekday,4,Off-Peak Night,1035.87,1285.16,1.8173
+VIC1,Victoria,Spring,Weekend,16,Peak (4PM-9PM),4408.88,7028.88,0.6474
+SA1,South Australia,Summer,Weekend,8,Daytime Shoulder,1043.41,2118.26,0.564
+VIC1,Victoria,Summer,Weekend,23,Off-Peak Night,4620.73,6580.54,0.6785
+QLD1,Queensland,Summer,Weekend,20,Peak (4PM-9PM),7310.79,9734.61,1.339
+SA1,South Australia,Autumn,Weekday,13,Daytime Shoulder,1066.11,2974.61,0.5763
+TAS1,Tasmania,Summer,Weekend,5,Off-Peak Night,992.48,1167.16,1.7412
+TAS1,Tasmania,Summer,Weekend,17,Peak (4PM-9PM),1111.22,1306.67,1.9495
+NSW1,New South Wales,Winter,Weekday,14,Daytime Shoulder,8204.31,11453.15,0.9837
+QLD1,Queensland,Winter,Weekday,17,Peak (4PM-9PM),7068.96,8827.87,1.2947
+NSW1,New South Wales,Spring,Weekend,15,Daytime Shoulder,6781.17,11789.55,0.8131
+QLD1,Queensland,Spring,Weekday,5,Off-Peak Night,5364.98,6299.57,0.9826
+SA1,South Australia,Spring,Weekday,10,Daytime Shoulder,1019.74,2600.12,0.5512
+NSW1,New South Wales,Autumn,Weekday,9,Daytime Shoulder,7905.98,10921.84,0.948
+QLD1,Queensland,Summer,Weekday,2,Off-Peak Night,5596.47,6950.84,1.025
+QLD1,Queensland,Summer,Weekday,0,Off-Peak Night,5994.44,7662.5,1.0979
+VIC1,Victoria,Autumn,Weekday,10,Daytime Shoulder,5079.55,8480.3,0.7459
+QLD1,Queensland,Winter,Weekend,10,Daytime Shoulder,4993.53,6628.22,0.9146
+TAS1,Tasmania,Winter,Weekend,13,Daytime Shoulder,1183.34,1446.37,2.076
+SA1,South Australia,Winter,Weekday,4,Off-Peak Night,1254.37,1653.72,0.678
+SA1,South Australia,Spring,Weekend,17,Peak (4PM-9PM),1161.76,2556.14,0.628
+VIC1,Victoria,Spring,Weekend,23,Off-Peak Night,4594.01,5828.02,0.6746
+VIC1,Victoria,Spring,Weekend,2,Off-Peak Night,4119.79,5747.54,0.605
+NSW1,New South Wales,Autumn,Weekday,8,Daytime Shoulder,8186.56,11134.16,0.9816
+QLD1,Queensland,Summer,Weekend,0,Off-Peak Night,6000.0,7665.49,1.0989
+QLD1,Queensland,Autumn,Weekday,18,Peak (4PM-9PM),7527.08,10117.91,1.3786
+SA1,South Australia,Autumn,Weekend,11,Daytime Shoulder,876.85,2318.26,0.474
+TAS1,Tasmania,Summer,Weekday,12,Daytime Shoulder,1025.31,1301.61,1.7988
+VIC1,Victoria,Summer,Weekend,10,Daytime Shoulder,3917.93,8304.17,0.5753
+QLD1,Queensland,Autumn,Weekend,12,Daytime Shoulder,5249.08,7367.59,0.9614
+SA1,South Australia,Winter,Weekday,13,Daytime Shoulder,1300.43,2297.99,0.7029
+SA1,South Australia,Winter,Weekday,9,Daytime Shoulder,1692.92,2227.77,0.9151
+NSW1,New South Wales,Spring,Weekday,3,Off-Peak Night,6249.61,8072.17,0.7494
+QLD1,Queensland,Winter,Weekend,8,Daytime Shoulder,5572.03,6628.19,1.0205
+QLD1,Queensland,Spring,Weekday,0,Off-Peak Night,5495.98,6742.2,1.0066
+VIC1,Victoria,Spring,Weekend,9,Daytime Shoulder,3981.37,6251.39,0.5846
+VIC1,Victoria,Spring,Weekday,22,Off-Peak Night,4830.07,6584.49,0.7093
+SA1,South Australia,Spring,Weekend,6,Off-Peak Night,1132.0,1488.1,0.6119
+QLD1,Queensland,Summer,Weekday,3,Off-Peak Night,5534.91,6761.17,1.0137
+QLD1,Queensland,Autumn,Weekday,23,Off-Peak Night,6041.67,7551.83,1.1065
+SA1,South Australia,Summer,Weekday,19,Peak (4PM-9PM),1727.25,3321.29,0.9337
+SA1,South Australia,Autumn,Weekend,9,Daytime Shoulder,1062.0,1861.64,0.5741
+TAS1,Tasmania,Summer,Weekday,4,Off-Peak Night,999.88,1211.94,1.7542
+TAS1,Tasmania,Autumn,Weekday,10,Daytime Shoulder,1150.24,1614.59,2.018
+TAS1,Tasmania,Autumn,Weekday,9,Daytime Shoulder,1202.0,1697.06,2.1088
+TAS1,Tasmania,Winter,Weekday,20,Peak (4PM-9PM),1396.63,1659.05,2.4502
+TAS1,Tasmania,Spring,Weekday,19,Peak (4PM-9PM),1245.75,1585.42,2.1855
+VIC1,Victoria,Winter,Weekend,15,Daytime Shoulder,4976.51,6447.81,0.7308
+SA1,South Australia,Spring,Weekday,2,Off-Peak Night,1235.88,1549.26,0.668
+NSW1,New South Wales,Autumn,Weekend,6,Off-Peak Night,6624.51,8373.08,0.7943
+QLD1,Queensland,Summer,Weekend,12,Daytime Shoulder,5795.38,8271.87,1.0614
+QLD1,Queensland,Autumn,Weekday,11,Daytime Shoulder,5786.77,8217.11,1.0598
+SA1,South Australia,Summer,Weekday,15,Daytime Shoulder,1231.27,3334.22,0.6656
+VIC1,Victoria,Autumn,Weekend,13,Daytime Shoulder,4045.14,7596.71,0.594
+NSW1,New South Wales,Winter,Weekday,2,Off-Peak Night,7491.16,9661.46,0.8982
+QLD1,Queensland,Winter,Weekend,5,Off-Peak Night,5178.84,6256.04,0.9485
+TAS1,Tasmania,Autumn,Weekday,12,Daytime Shoulder,1090.61,1467.75,1.9134
+TAS1,Tasmania,Winter,Weekday,18,Peak (4PM-9PM),1463.87,1735.77,2.5682
+VIC1,Victoria,Winter,Weekend,4,Off-Peak Night,4302.42,5531.06,0.6318
+NSW1,New South Wales,Spring,Weekday,15,Daytime Shoulder,7687.62,13169.71,0.9218
+TAS1,Tasmania,Spring,Weekend,2,Off-Peak Night,1001.62,1212.21,1.7572
+NSW1,New South Wales,Summer,Weekday,5,Off-Peak Night,7044.38,9067.48,0.8447
+NSW1,New South Wales,Autumn,Weekday,3,Off-Peak Night,6374.0,7891.7,0.7643
+NSW1,New South Wales,Autumn,Weekday,19,Peak (4PM-9PM),9066.59,12207.33,1.0871
+QLD1,Queensland,Summer,Weekday,10,Daytime Shoulder,6294.58,8499.58,1.1529
+QLD1,Queensland,Summer,Weekday,15,Daytime Shoulder,7273.08,10265.07,1.3321
+QLD1,Queensland,Summer,Weekend,10,Daytime Shoulder,5608.76,7643.59,1.0272
+SA1,South Australia,Summer,Weekend,12,Daytime Shoulder,863.25,2740.1,0.4666
+TAS1,Tasmania,Autumn,Weekend,12,Daytime Shoulder,1056.58,1394.82,1.8537
+VIC1,Victoria,Summer,Weekend,22,Off-Peak Night,4602.69,7271.01,0.6759
+QLD1,Queensland,Winter,Weekend,17,Peak (4PM-9PM),6618.0,7917.33,1.2121
+SA1,South Australia,Winter,Weekday,18,Peak (4PM-9PM),1994.24,2582.41,1.078
+TAS1,Tasmania,Winter,Weekday,7,Daytime Shoulder,1405.15,1764.88,2.4652
+TAS1,Tasmania,Winter,Weekday,2,Off-Peak Night,1085.86,1354.04,1.905
+NSW1,New South Wales,Winter,Weekend,20,Peak (4PM-9PM),9598.69,12185.26,1.1509
+NSW1,New South Wales,Winter,Weekend,3,Off-Peak Night,6925.05,8398.61,0.8303
+SA1,South Australia,Spring,Weekday,14,Daytime Shoulder,934.16,2959.32,0.505
+VIC1,Victoria,Spring,Weekday,5,Off-Peak Night,4584.86,6075.89,0.6733
+NSW1,New South Wales,Autumn,Weekend,0,Off-Peak Night,7278.73,9503.76,0.8727
+SA1,South Australia,Summer,Weekend,22,Off-Peak Night,1413.32,2483.38,0.764
+TAS1,Tasmania,Summer,Weekend,12,Daytime Shoulder,991.93,1174.71,1.7402
+TAS1,Tasmania,Summer,Weekend,9,Daytime Shoulder,1056.49,1277.16,1.8535
+TAS1,Tasmania,Autumn,Weekday,14,Daytime Shoulder,1091.24,1419.76,1.9145
+VIC1,Victoria,Summer,Weekend,8,Daytime Shoulder,3998.62,6873.06,0.5872
+SA1,South Australia,Winter,Weekday,3,Off-Peak Night,1295.7,1612.36,0.7004
+SA1,South Australia,Spring,Weekend,11,Daytime Shoulder,731.71,2386.65,0.3955
+TAS1,Tasmania,Winter,Weekend,9,Daytime Shoulder,1318.69,1568.35,2.3135
+TAS1,Tasmania,Spring,Weekend,18,Peak (4PM-9PM),1210.91,1487.64,2.1244
+VIC1,Victoria,Winter,Weekday,10,Daytime Shoulder,6124.72,7847.55,0.8994
+QLD1,Queensland,Spring,Weekend,21,Peak (4PM-9PM),6256.61,7555.68,1.1459
+QLD1,Queensland,Spring,Weekend,7,Daytime Shoulder,4908.17,6229.05,0.8989
+QLD1,Queensland,Summer,Weekend,3,Off-Peak Night,5494.05,6784.96,1.0062
+SA1,South Australia,Autumn,Weekend,1,Off-Peak Night,1372.15,1904.29,0.7417
+NSW1,New South Wales,Autumn,Weekday,6,Off-Peak Night,7703.22,10088.14,0.9236
+QLD1,Queensland,Summer,Weekday,16,Peak (4PM-9PM),7689.49,11036.2,1.4083
+QLD1,Queensland,Summer,Weekday,18,Peak (4PM-9PM),7959.58,11105.06,1.4578
+TAS1,Tasmania,Summer,Weekend,8,Daytime Shoulder,1067.05,1255.71,1.872
+NSW1,New South Wales,Autumn,Weekend,9,Daytime Shoulder,7094.34,10065.31,0.8506
+QLD1,Queensland,Spring,Weekday,21,Peak (4PM-9PM),6562.37,8105.95,1.2019
+TAS1,Tasmania,Spring,Weekday,12,Daytime Shoulder,1058.81,1391.2,1.8576
+VIC1,Victoria,Winter,Weekend,22,Off-Peak Night,5362.68,6440.54,0.7875
+QLD1,Queensland,Spring,Weekend,23,Off-Peak Night,5716.82,6706.5,1.047
+TAS1,Tasmania,Spring,Weekday,1,Off-Peak Night,1003.94,1249.38,1.7613
+QLD1,Queensland,Summer,Weekday,11,Daytime Shoulder,6353.94,8692.35,1.1637
+QLD1,Queensland,Autumn,Weekend,22,Off-Peak Night,6159.04,7786.3,1.128
+SA1,South Australia,Summer,Weekday,13,Daytime Shoulder,1081.78,3268.84,0.5847
+TAS1,Tasmania,Autumn,Weekend,13,Daytime Shoulder,1042.39,1354.47,1.8287
+NSW1,New South Wales,Autumn,Weekday,13,Daytime Shoulder,7595.31,11611.76,0.9107
+SA1,South Australia,Autumn,Weekend,15,Daytime Shoulder,988.67,2655.34,0.5344
+SA1,South Australia,Autumn,Weekday,12,Daytime Shoulder,1070.53,2827.81,0.5787
+TAS1,Tasmania,Winter,Weekday,4,Off-Peak Night,1099.22,1394.03,1.9285
+NSW1,New South Wales,Spring,Weekday,9,Daytime Shoulder,7300.18,11983.27,0.8753
+SA1,South Australia,Winter,Weekend,17,Peak (4PM-9PM),1589.63,2284.24,0.8593
+VIC1,Victoria,Spring,Weekday,11,Daytime Shoulder,4606.59,8473.73,0.6764
+SA1,South Australia,Spring,Weekend,15,Daytime Shoulder,773.83,2625.67,0.4183
+VIC1,Victoria,Spring,Weekend,3,Off-Peak Night,3962.61,5307.86,0.5819
+QLD1,Queensland,Autumn,Weekday,16,Peak (4PM-9PM),7080.48,10017.92,1.2968
+VIC1,Victoria,Autumn,Weekend,5,Off-Peak Night,4051.36,5132.09,0.5949
+SA1,South Australia,Autumn,Weekend,20,Peak (4PM-9PM),1539.62,2557.58,0.8322
+SA1,South Australia,Winter,Weekday,0,Off-Peak Night,1627.6,2076.6,0.8798
+VIC1,Victoria,Winter,Weekday,12,Daytime Shoulder,5659.46,7840.02,0.8311
+QLD1,Queensland,Winter,Weekday,10,Daytime Shoulder,5503.88,7840.63,1.008
+QLD1,Queensland,Spring,Weekend,1,Off-Peak Night,5260.33,6362.86,0.9634
+SA1,South Australia,Spring,Weekday,1,Off-Peak Night,1342.08,1778.06,0.7255
+SA1,South Australia,Spring,Weekday,23,Off-Peak Night,1347.54,1914.22,0.7284
+QLD1,Queensland,Spring,Weekend,0,Off-Peak Night,5492.81,6632.01,1.006
+QLD1,Queensland,Spring,Weekend,16,Peak (4PM-9PM),6123.52,8180.21,1.1215
+SA1,South Australia,Spring,Weekend,5,Off-Peak Night,1118.64,1529.45,0.6047
+TAS1,Tasmania,Spring,Weekend,3,Off-Peak Night,1003.82,1213.64,1.7611
+QLD1,Queensland,Summer,Weekend,14,Daytime Shoulder,6229.48,8689.21,1.1409
+NSW1,New South Wales,Summer,Weekend,10,Daytime Shoulder,6891.22,12132.01,0.8263
+NSW1,New South Wales,Summer,Weekday,6,Off-Peak Night,7586.35,10254.7,0.9096
+NSW1,New South Wales,Autumn,Weekend,19,Peak (4PM-9PM),8537.72,11568.49,1.0237
+QLD1,Queensland,Autumn,Weekend,3,Off-Peak Night,5223.99,6294.38,0.9568
+QLD1,Queensland,Autumn,Weekday,2,Off-Peak Night,5314.5,6498.68,0.9734
+TAS1,Tasmania,Autumn,Weekday,15,Daytime Shoulder,1115.04,1440.38,1.9562
+VIC1,Victoria,Autumn,Weekday,14,Daytime Shoulder,5032.02,9422.73,0.7389
+VIC1,Victoria,Autumn,Weekday,0,Off-Peak Night,4714.92,6204.26,0.6924
+VIC1,Victoria,Autumn,Weekday,18,Peak (4PM-9PM),6173.78,9207.11,0.9066
+NSW1,New South Wales,Winter,Weekday,12,Daytime Shoulder,8109.87,11567.96,0.9724
+NSW1,New South Wales,Winter,Weekend,23,Off-Peak Night,8399.7,10221.03,1.0072
+SA1,South Australia,Autumn,Weekend,4,Off-Peak Night,1170.66,1695.67,0.6328
+VIC1,Victoria,Winter,Weekday,20,Peak (4PM-9PM),6572.69,7804.23,0.9652
+QLD1,Queensland,Spring,Weekend,11,Daytime Shoulder,4742.22,7474.03,0.8685
+SA1,South Australia,Spring,Weekend,16,Peak (4PM-9PM),943.99,2646.47,0.5103
+QLD1,Queensland,Spring,Weekend,18,Peak (4PM-9PM),6804.51,8425.93,1.2462
+NSW1,New South Wales,Summer,Weekend,8,Daytime Shoulder,6853.94,10823.44,0.8218
+NSW1,New South Wales,Summer,Weekend,15,Daytime Shoulder,7913.22,13258.4,0.9488
+QLD1,Queensland,Summer,Weekend,21,Peak (4PM-9PM),6987.31,9151.34,1.2797
+SA1,South Australia,Summer,Weekend,19,Peak (4PM-9PM),1596.13,2943.36,0.8628
+TAS1,Tasmania,Summer,Weekend,0,Off-Peak Night,987.96,1167.12,1.7333
+TAS1,Tasmania,Autumn,Weekday,11,Daytime Shoulder,1110.16,1533.83,1.9477
+TAS1,Tasmania,Autumn,Weekend,4,Off-Peak Night,999.99,1209.46,1.7544
+VIC1,Victoria,Summer,Weekend,11,Daytime Shoulder,3931.48,8668.75,0.5773
+VIC1,Victoria,Autumn,Weekend,15,Daytime Shoulder,4480.99,8004.97,0.658
+VIC1,Victoria,Autumn,Weekend,19,Peak (4PM-9PM),5508.02,8197.7,0.8088
+QLD1,Queensland,Winter,Weekday,6,Off-Peak Night,6197.83,7824.85,1.1351
+NSW1,New South Wales,Spring,Weekend,0,Off-Peak Night,7089.67,9619.19,0.8501
+QLD1,Queensland,Summer,Weekend,16,Peak (4PM-9PM),7029.49,9681.79,1.2875
+VIC1,Victoria,Spring,Weekday,21,Peak (4PM-9PM),5190.91,7415.76,0.7622
+NSW1,New South Wales,Summer,Weekend,3,Off-Peak Night,6186.23,8079.16,0.7418
+NSW1,New South Wales,Summer,Weekday,14,Daytime Shoulder,8499.56,14055.21,1.0191
+NSW1,New South Wales,Autumn,Weekend,18,Peak (4PM-9PM),8787.27,12022.88,1.0536
+QLD1,Queensland,Summer,Weekend,2,Off-Peak Night,5574.28,7023.39,1.0209
+QLD1,Queensland,Summer,Weekend,8,Daytime Shoulder,5484.05,7224.05,1.0044
+SA1,South Australia,Summer,Weekend,7,Daytime Shoulder,1138.88,1854.9,0.6156
+TAS1,Tasmania,Autumn,Weekend,8,Daytime Shoulder,1150.45,1469.36,2.0183
+TAS1,Tasmania,Autumn,Weekend,15,Daytime Shoulder,1075.74,1329.48,1.8873
+VIC1,Victoria,Summer,Weekend,1,Off-Peak Night,4247.77,6179.31,0.6238
+SA1,South Australia,Winter,Weekend,0,Off-Peak Night,1631.78,2083.06,0.882
+SA1,South Australia,Winter,Weekday,6,Off-Peak Night,1375.53,1834.4,0.7435
+VIC1,Victoria,Winter,Weekday,0,Off-Peak Night,5213.3,6386.93,0.7655
+SA1,South Australia,Winter,Weekday,22,Off-Peak Night,1730.96,2246.02,0.9357
+SA1,South Australia,Spring,Weekend,10,Daytime Shoulder,791.55,2227.17,0.4279
+VIC1,Victoria,Spring,Weekend,7,Daytime Shoulder,4197.21,5724.68,0.6163
+QLD1,Queensland,Spring,Weekday,4,Off-Peak Night,5153.87,6271.43,0.9439
+VIC1,Victoria,Summer,Weekend,18,Peak (4PM-9PM),5395.92,9307.18,0.7924
+QLD1,Queensland,Autumn,Weekend,17,Peak (4PM-9PM),6958.77,9102.98,1.2745
+VIC1,Victoria,Summer,Weekday,3,Off-Peak Night,4071.13,6032.6,0.5978
+NSW1,New South Wales,Winter,Weekday,23,Off-Peak Night,8866.9,11185.43,1.0632
+VIC1,Victoria,Autumn,Weekend,20,Peak (4PM-9PM),5277.34,7622.94,0.7749
+VIC1,Victoria,Winter,Weekday,19,Peak (4PM-9PM),6879.93,8072.53,1.0103
+TAS1,Tasmania,Spring,Weekend,9,Daytime Shoulder,1123.29,1382.35,1.9707
+QLD1,Queensland,Spring,Weekend,4,Off-Peak Night,5032.11,6063.77,0.9216
+TAS1,Tasmania,Spring,Weekend,12,Daytime Shoulder,1033.35,1338.84,1.8129
+NSW1,New South Wales,Summer,Weekend,20,Peak (4PM-9PM),8344.86,12978.96,1.0006
+NSW1,New South Wales,Autumn,Weekend,17,Peak (4PM-9PM),8541.13,12157.6,1.0241
+VIC1,Victoria,Summer,Weekday,15,Daytime Shoulder,5301.46,10196.41,0.7785
+NSW1,New South Wales,Autumn,Weekday,5,Off-Peak Night,6896.46,8363.8,0.8269
+NSW1,New South Wales,Winter,Weekend,8,Daytime Shoulder,8381.51,10785.2,1.005
+QLD1,Queensland,Winter,Weekday,22,Off-Peak Night,6328.47,7498.72,1.1591
+SA1,South Australia,Winter,Weekend,15,Daytime Shoulder,1196.81,1933.83,0.6469
+NSW1,New South Wales,Winter,Weekday,4,Off-Peak Night,7013.5,8229.28,0.8409
+SA1,South Australia,Spring,Weekday,21,Peak (4PM-9PM),1494.26,2392.94,0.8077
+TAS1,Tasmania,Spring,Weekend,4,Off-Peak Night,1014.49,1227.77,1.7798
+SA1,South Australia,Spring,Weekday,15,Daytime Shoulder,1014.63,2938.21,0.5484
+NSW1,New South Wales,Summer,Weekend,22,Off-Peak Night,7667.5,11516.78,0.9194
+QLD1,Queensland,Summer,Weekend,7,Daytime Shoulder,5410.38,6936.73,0.9909
+QLD1,Queensland,Summer,Weekday,22,Off-Peak Night,6806.44,9024.19,1.2466
+QLD1,Queensland,Autumn,Weekday,19,Peak (4PM-9PM),7331.35,10096.14,1.3427
+SA1,South Australia,Summer,Weekday,4,Off-Peak Night,1252.91,1966.56,0.6773
+TAS1,Tasmania,Summer,Weekday,13,Daytime Shoulder,1024.09,1293.22,1.7966
+NSW1,New South Wales,Winter,Weekday,5,Off-Peak Night,7433.62,9228.44,0.8913
+NSW1,New South Wales,Spring,Weekday,13,Daytime Shoulder,7090.14,13266.99,0.8501
+TAS1,Tasmania,Spring,Weekday,11,Daytime Shoulder,1078.65,1436.66,1.8924
+VIC1,Victoria,Spring,Weekday,1,Off-Peak Night,4392.72,6032.51,0.645
+VIC1,Victoria,Spring,Weekday,18,Peak (4PM-9PM),5751.87,8914.57,0.8446
+NSW1,New South Wales,Spring,Weekend,8,Daytime Shoulder,6513.05,9707.15,0.7809
+QLD1,Queensland,Spring,Weekday,23,Off-Peak Night,5869.47,7072.09,1.075
+TAS1,Tasmania,Spring,Weekday,18,Peak (4PM-9PM),1237.52,1575.43,2.1711
+NSW1,New South Wales,Autumn,Weekend,13,Daytime Shoulder,6759.94,10899.94,0.8105
+TAS1,Tasmania,Summer,Weekend,11,Daytime Shoulder,1012.43,1218.34,1.7762
+TAS1,Tasmania,Summer,Weekend,23,Off-Peak Night,1006.27,1152.65,1.7654
+TAS1,Tasmania,Summer,Weekend,13,Daytime Shoulder,985.79,1201.69,1.7295
+TAS1,Tasmania,Autumn,Weekday,6,Off-Peak Night,1169.72,1549.83,2.0521
+TAS1,Tasmania,Autumn,Weekend,2,Off-Peak Night,993.78,1194.67,1.7435
+VIC1,Victoria,Winter,Weekend,7,Daytime Shoulder,4872.38,6099.81,0.7155
+SA1,South Australia,Winter,Weekday,7,Daytime Shoulder,1602.84,2235.05,0.8664
+TAS1,Tasmania,Winter,Weekend,1,Off-Peak Night,1095.72,1336.32,1.9223
+SA1,South Australia,Spring,Weekend,8,Daytime Shoulder,993.75,1824.0,0.5372
+VIC1,Victoria,Spring,Weekend,8,Daytime Shoulder,4123.41,6065.65,0.6055
+NSW1,New South Wales,Summer,Weekday,20,Peak (4PM-9PM),8720.77,13443.85,1.0457
+QLD1,Queensland,Summer,Weekend,1,Off-Peak Night,5758.33,7264.97,1.0546
+TAS1,Tasmania,Summer,Weekday,10,Daytime Shoulder,1052.15,1345.6,1.8459
+TAS1,Tasmania,Autumn,Weekday,1,Off-Peak Night,1000.59,1257.42,1.7554
+VIC1,Victoria,Summer,Weekend,16,Peak (4PM-9PM),4916.29,8965.33,0.7219
+NSW1,New South Wales,Winter,Weekend,22,Off-Peak Night,8794.9,10825.38,1.0545
+SA1,South Australia,Autumn,Weekend,3,Off-Peak Night,1197.57,1765.2,0.6473
+SA1,South Australia,Winter,Weekend,11,Daytime Shoulder,1175.8,1867.62,0.6356
+TAS1,Tasmania,Winter,Weekday,11,Daytime Shoulder,1288.44,1627.37,2.2604
+QLD1,Queensland,Spring,Weekend,3,Off-Peak Night,5030.52,6178.91,0.9213
+QLD1,Queensland,Spring,Weekday,14,Daytime Shoulder,5889.9,8546.24,1.0787
+VIC1,Victoria,Winter,Weekend,13,Daytime Shoulder,4656.87,6497.41,0.6838
+QLD1,Queensland,Summer,Weekday,12,Daytime Shoulder,6473.48,8996.32,1.1856
+QLD1,Queensland,Autumn,Weekend,23,Off-Peak Night,5898.45,7296.71,1.0803
+SA1,South Australia,Summer,Weekday,23,Off-Peak Night,1441.62,2510.88,0.7793
+SA1,South Australia,Summer,Weekday,8,Daytime Shoulder,1302.07,2649.85,0.7038
+NSW1,New South Wales,Winter,Weekend,13,Daytime Shoulder,7225.85,10428.81,0.8664
+QLD1,Queensland,Autumn,Weekend,11,Daytime Shoulder,5222.8,7204.08,0.9566
+VIC1,Victoria,Winter,Weekday,21,Peak (4PM-9PM),6197.1,7526.35,0.91
+NSW1,New South Wales,Spring,Weekday,8,Daytime Shoulder,7546.86,11301.63,0.9049
+NSW1,New South Wales,Spring,Weekday,19,Peak (4PM-9PM),8710.78,11760.02,1.0445
+NSW1,New South Wales,Spring,Weekend,21,Peak (4PM-9PM),7585.16,10673.88,0.9095
+SA1,South Australia,Spring,Weekend,0,Off-Peak Night,1405.7,1853.85,0.7598
+TAS1,Tasmania,Spring,Weekday,15,Daytime Shoulder,1084.48,1392.01,1.9026
+NSW1,New South Wales,Spring,Weekday,2,Off-Peak Night,6425.8,8782.02,0.7705
+NSW1,New South Wales,Autumn,Weekday,7,Daytime Shoulder,8232.74,10670.25,0.9871
+QLD1,Queensland,Summer,Weekend,6,Off-Peak Night,5405.54,6737.3,0.99
+QLD1,Queensland,Autumn,Weekday,8,Daytime Shoulder,6190.78,7636.02,1.1338
+SA1,South Australia,Summer,Weekend,16,Peak (4PM-9PM),1193.72,2892.81,0.6453
+QLD1,Queensland,Autumn,Weekend,8,Daytime Shoulder,5404.81,6746.34,0.9899
+SA1,South Australia,Winter,Weekday,8,Daytime Shoulder,1773.24,2283.16,0.9585
+TAS1,Tasmania,Winter,Weekend,8,Daytime Shoulder,1279.38,1579.83,2.2445
+VIC1,Victoria,Winter,Weekday,23,Off-Peak Night,5504.57,6659.48,0.8083
+QLD1,Queensland,Winter,Weekend,3,Off-Peak Night,5037.76,5784.09,0.9227
+TAS1,Tasmania,Spring,Weekday,0,Off-Peak Night,1017.46,1269.49,1.785
+QLD1,Queensland,Spring,Weekend,13,Daytime Shoulder,4884.94,7743.5,0.8947
+NSW1,New South Wales,Summer,Weekend,9,Daytime Shoulder,6893.63,11622.38,0.8266
+QLD1,Queensland,Summer,Weekday,6,Off-Peak Night,5975.62,7614.87,1.0944
+SA1,South Australia,Summer,Weekend,15,Daytime Shoulder,1029.78,2831.03,0.5566
+VIC1,Victoria,Summer,Weekend,13,Daytime Shoulder,4063.07,8912.11,0.5966
+VIC1,Victoria,Autumn,Weekday,9,Daytime Shoulder,5340.42,8078.45,0.7842
+QLD1,Queensland,Winter,Weekend,12,Daytime Shoulder,4715.05,6504.5,0.8636
+SA1,South Australia,Winter,Weekend,23,Off-Peak Night,1530.26,1858.57,0.8272
+SA1,South Australia,Spring,Weekday,16,Peak (4PM-9PM),1158.21,2983.76,0.6261
+TAS1,Tasmania,Spring,Weekday,22,Off-Peak Night,1102.68,1446.18,1.9345
+QLD1,Queensland,Spring,Weekend,5,Off-Peak Night,5052.03,5986.31,0.9253
+NSW1,New South Wales,Summer,Weekday,8,Daytime Shoulder,7921.8,11966.77,0.9499
+TAS1,Tasmania,Summer,Weekday,8,Daytime Shoulder,1109.66,1401.27,1.9468
+TAS1,Tasmania,Autumn,Weekday,13,Daytime Shoulder,1082.73,1422.28,1.8995
+VIC1,Victoria,Autumn,Weekday,16,Peak (4PM-9PM),5628.35,9701.49,0.8265
+VIC1,Victoria,Winter,Weekend,9,Daytime Shoulder,5271.62,6693.75,0.7741
+QLD1,Queensland,Winter,Weekday,9,Daytime Shoulder,5873.5,7892.43,1.0757
+TAS1,Tasmania,Spring,Weekday,13,Daytime Shoulder,1052.39,1361.98,1.8463
+VIC1,Victoria,Spring,Weekend,1,Off-Peak Night,4334.4,5937.42,0.6365
+NSW1,New South Wales,Summer,Weekend,0,Off-Peak Night,7106.23,9625.97,0.8521
+QLD1,Queensland,Autumn,Weekday,12,Daytime Shoulder,5841.85,8414.98,1.0699
+SA1,South Australia,Summer,Weekday,11,Daytime Shoulder,1061.13,3070.57,0.5736
+TAS1,Tasmania,Autumn,Weekday,4,Off-Peak Night,1014.43,1280.14,1.7797
+VIC1,Victoria,Summer,Weekday,10,Daytime Shoulder,4730.76,10074.64,0.6947
+VIC1,Victoria,Autumn,Weekday,22,Off-Peak Night,5016.77,6830.16,0.7367
+SA1,South Australia,Winter,Weekday,12,Daytime Shoulder,1336.5,2245.85,0.7224
+TAS1,Tasmania,Winter,Weekday,17,Peak (4PM-9PM),1409.71,1743.34,2.4732
+NSW1,New South Wales,Spring,Weekday,1,Off-Peak Night,6798.03,9120.92,0.8151
+NSW1,New South Wales,Spring,Weekday,18,Peak (4PM-9PM),8817.81,11825.64,1.0573
+QLD1,Queensland,Winter,Weekend,14,Daytime Shoulder,4971.43,6549.5,0.9105
+SA1,South Australia,Spring,Weekday,11,Daytime Shoulder,950.12,2736.71,0.5136
+TAS1,Tasmania,Winter,Weekend,10,Daytime Shoulder,1299.38,1554.59,2.2796
+NSW1,New South Wales,Spring,Weekend,18,Peak (4PM-9PM),8202.56,11985.06,0.9835
+SA1,South Australia,Spring,Weekday,3,Off-Peak Night,1175.46,1568.1,0.6354
+TAS1,Tasmania,Spring,Weekday,9,Daytime Shoulder,1155.05,1577.5,2.0264
+TAS1,Tasmania,Spring,Weekend,11,Daytime Shoulder,1060.41,1348.94,1.8604
+NSW1,New South Wales,Summer,Weekend,6,Off-Peak Night,6467.69,8425.39,0.7755
+NSW1,New South Wales,Summer,Weekend,12,Daytime Shoulder,7019.85,12686.65,0.8417
+NSW1,New South Wales,Summer,Weekend,23,Off-Peak Night,7270.75,10476.52,0.8718
+QLD1,Queensland,Summer,Weekday,17,Peak (4PM-9PM),7959.22,11159.32,1.4577
+QLD1,Queensland,Autumn,Weekend,16,Peak (4PM-9PM),6540.33,8795.99,1.1979
+QLD1,Queensland,Autumn,Weekend,7,Daytime Shoulder,5444.5,6637.78,0.9972
+SA1,South Australia,Summer,Weekend,0,Off-Peak Night,1455.13,2239.58,0.7866
+SA1,South Australia,Autumn,Weekend,17,Peak (4PM-9PM),1406.08,2835.64,0.76
+TAS1,Tasmania,Summer,Weekend,2,Off-Peak Night,968.7,1147.98,1.6995
+QLD1,Queensland,Winter,Weekday,18,Peak (4PM-9PM),7353.2,8879.24,1.3467
+QLD1,Queensland,Winter,Weekday,11,Daytime Shoulder,5327.74,7600.73,0.9758
+VIC1,Victoria,Winter,Weekend,18,Peak (4PM-9PM),6350.25,7455.63,0.9325
+SA1,South Australia,Autumn,Weekend,13,Daytime Shoulder,824.99,2557.87,0.4459
+QLD1,Queensland,Autumn,Weekend,21,Peak (4PM-9PM),6443.95,8306.98,1.1802
+SA1,South Australia,Autumn,Weekday,9,Daytime Shoulder,1322.71,2421.88,0.715
+SA1,South Australia,Autumn,Weekend,0,Off-Peak Night,1470.42,2039.5,0.7948
+SA1,South Australia,Autumn,Weekend,10,Daytime Shoulder,960.81,2097.01,0.5194
+VIC1,Victoria,Autumn,Weekday,6,Off-Peak Night,5086.6,7234.99,0.7469
+NSW1,New South Wales,Winter,Weekend,1,Off-Peak Night,7864.48,9973.69,0.943
+QLD1,Queensland,Autumn,Weekend,4,Off-Peak Night,5224.9,6242.84,0.9569
+QLD1,Queensland,Winter,Weekday,14,Daytime Shoulder,5561.63,7800.74,1.0186
+VIC1,Victoria,Winter,Weekday,22,Off-Peak Night,5706.42,6965.77,0.8379
+NSW1,New South Wales,Winter,Weekend,10,Daytime Shoulder,7983.78,11254.5,0.9573
+NSW1,New South Wales,Winter,Weekend,11,Daytime Shoulder,7550.59,10778.93,0.9053
+NSW1,New South Wales,Winter,Weekend,16,Peak (4PM-9PM),8524.57,10615.37,1.0221
+NSW1,New South Wales,Spring,Weekday,12,Daytime Shoulder,7010.39,13167.68,0.8406
+SA1,South Australia,Spring,Weekend,13,Daytime Shoulder,687.55,2567.23,0.3716
+QLD1,Queensland,Spring,Weekend,14,Daytime Shoulder,5145.18,7755.04,0.9423
+NSW1,New South Wales,Summer,Weekend,16,Peak (4PM-9PM),8365.66,13464.42,1.0031
+NSW1,New South Wales,Summer,Weekend,13,Daytime Shoulder,7186.26,12862.87,0.8617
+SA1,South Australia,Summer,Weekday,22,Off-Peak Night,1490.5,2804.06,0.8057
+TAS1,Tasmania,Summer,Weekday,22,Off-Peak Night,1049.88,1236.79,1.8419
+TAS1,Tasmania,Autumn,Weekday,5,Off-Peak Night,1067.2,1397.48,1.8723
+NSW1,New South Wales,Winter,Weekday,17,Peak (4PM-9PM),10268.92,13630.9,1.2313
+QLD1,Queensland,Winter,Weekend,23,Off-Peak Night,5804.37,6553.47,1.0631
+SA1,South Australia,Winter,Weekend,9,Daytime Shoulder,1362.48,1853.09,0.7365
+NSW1,New South Wales,Spring,Weekend,7,Daytime Shoulder,6475.58,8838.32,0.7764
+QLD1,Queensland,Spring,Weekday,2,Off-Peak Night,5127.07,6292.61,0.939
+SA1,South Australia,Winter,Weekday,17,Peak (4PM-9PM),1748.38,2518.07,0.9451
+TAS1,Tasmania,Spring,Weekday,10,Daytime Shoulder,1108.78,1506.13,1.9452
+NSW1,New South Wales,Summer,Weekend,7,Daytime Shoulder,6699.03,9604.0,0.8032
+SA1,South Australia,Spring,Weekend,7,Daytime Shoulder,1095.34,1563.08,0.5921
+SA1,South Australia,Summer,Weekend,1,Off-Peak Night,1350.59,1974.94,0.7301
+VIC1,Victoria,Summer,Weekday,19,Peak (4PM-9PM),5702.95,9340.61,0.8374
+VIC1,Victoria,Autumn,Weekday,3,Off-Peak Night,4140.25,5525.92,0.608
+SA1,South Australia,Autumn,Weekend,16,Peak (4PM-9PM),1171.38,2697.57,0.6332
+SA1,South Australia,Winter,Weekday,21,Peak (4PM-9PM),1882.42,2354.44,1.0175
+TAS1,Tasmania,Winter,Weekday,9,Daytime Shoulder,1420.69,1746.8,2.4924
+QLD1,Queensland,Winter,Weekday,13,Daytime Shoulder,5337.99,7702.91,0.9777
+QLD1,Queensland,Winter,Weekend,13,Daytime Shoulder,4755.31,6513.41,0.8709
+QLD1,Queensland,Spring,Weekend,17,Peak (4PM-9PM),6577.75,8333.2,1.2047
+QLD1,Queensland,Spring,Weekend,20,Peak (4PM-9PM),6542.1,7992.36,1.1982
+SA1,South Australia,Spring,Weekend,20,Peak (4PM-9PM),1434.72,2173.09,0.7755
+TAS1,Tasmania,Spring,Weekend,16,Peak (4PM-9PM),1102.28,1349.04,1.9338
+NSW1,New South Wales,Summer,Weekday,19,Peak (4PM-9PM),9030.2,13573.14,1.0828
+NSW1,New South Wales,Summer,Weekday,23,Off-Peak Night,7641.08,10347.97,0.9162
+SA1,South Australia,Summer,Weekend,14,Daytime Shoulder,935.34,2809.11,0.5056
+SA1,South Australia,Autumn,Weekend,14,Daytime Shoulder,875.98,2597.62,0.4735
+TAS1,Tasmania,Autumn,Weekend,11,Daytime Shoulder,1085.87,1442.41,1.905
+TAS1,Tasmania,Autumn,Weekend,0,Off-Peak Night,1022.8,1272.0,1.7944
+VIC1,Victoria,Summer,Weekend,3,Off-Peak Night,3932.52,5491.58,0.5775
+QLD1,Queensland,Autumn,Weekend,0,Off-Peak Night,5674.79,6974.69,1.0393
+NSW1,New South Wales,Spring,Weekend,3,Off-Peak Night,6076.16,7851.38,0.7286
+QLD1,Queensland,Spring,Weekend,6,Off-Peak Night,4980.29,6078.09,0.9121
+SA1,South Australia,Winter,Weekday,16,Peak (4PM-9PM),1514.58,2368.18,0.8187
+TAS1,Tasmania,Spring,Weekday,20,Peak (4PM-9PM),1221.42,1543.45,2.1428
+TAS1,Tasmania,Spring,Weekend,23,Off-Peak Night,1043.85,1322.19,1.8313
+TAS1,Tasmania,Spring,Weekday,17,Peak (4PM-9PM),1196.88,1518.5,2.0998
+NSW1,New South Wales,Spring,Weekend,11,Daytime Shoulder,6138.04,10743.13,0.736
+SA1,South Australia,Spring,Weekend,9,Daytime Shoulder,878.59,2041.75,0.4749
+VIC1,Victoria,Spring,Weekday,7,Daytime Shoulder,5369.6,7244.61,0.7885
+NSW1,New South Wales,Summer,Weekend,21,Peak (4PM-9PM),7990.53,12425.11,0.9581
+NSW1,New South Wales,Autumn,Weekday,0,Off-Peak Night,7359.78,9413.51,0.8825
+QLD1,Queensland,Summer,Weekday,13,Daytime Shoulder,6669.23,9371.59,1.2215
+QLD1,Queensland,Autumn,Weekend,20,Peak (4PM-9PM),6710.55,8776.49,1.229
+SA1,South Australia,Autumn,Weekend,12,Daytime Shoulder,829.47,2482.59,0.4484
+TAS1,Tasmania,Autumn,Weekday,19,Peak (4PM-9PM),1263.1,1642.16,2.216
+VIC1,Victoria,Autumn,Weekend,16,Peak (4PM-9PM),4913.29,8291.3,0.7215
+NSW1,New South Wales,Winter,Weekend,21,Peak (4PM-9PM),9214.62,11772.84,1.1049
+NSW1,New South Wales,Spring,Weekend,9,Daytime Shoulder,6416.76,10551.98,0.7694
+VIC1,Victoria,Winter,Weekend,6,Off-Peak Night,4561.47,5654.25,0.6698
+NSW1,New South Wales,Spring,Weekend,14,Daytime Shoulder,6345.24,11588.24,0.7608
+QLD1,Queensland,Spring,Weekend,9,Daytime Shoulder,4819.09,7006.36,0.8826
+TAS1,Tasmania,Spring,Weekend,1,Off-Peak Night,1007.46,1219.1,1.7675
+NSW1,New South Wales,Autumn,Weekday,1,Off-Peak Night,6980.12,9068.74,0.8369
+SA1,South Australia,Summer,Weekend,4,Off-Peak Night,1190.44,1692.13,0.6435
+QLD1,Queensland,Autumn,Weekend,15,Daytime Shoulder,6040.61,8379.9,1.1063
+QLD1,Queensland,Autumn,Weekend,1,Off-Peak Night,5448.7,6590.42,0.9979
+QLD1,Queensland,Winter,Weekend,16,Peak (4PM-9PM),5982.04,7568.78,1.0956
+TAS1,Tasmania,Winter,Weekend,12,Daytime Shoulder,1208.85,1495.83,2.1208
+VIC1,Victoria,Autumn,Weekend,10,Daytime Shoulder,4225.38,6527.36,0.6205
+NSW1,New South Wales,Winter,Weekend,12,Daytime Shoulder,7305.13,10552.3,0.8759
+VIC1,Victoria,Spring,Weekend,11,Daytime Shoulder,3735.92,6682.67,0.5486
+NSW1,New South Wales,Spring,Weekend,13,Daytime Shoulder,6129.54,11350.11,0.735
+NSW1,New South Wales,Summer,Weekday,16,Peak (4PM-9PM),9279.34,14579.86,1.1126
+TAS1,Tasmania,Summer,Weekend,6,Off-Peak Night,1015.7,1218.65,1.7819
+VIC1,Victoria,Autumn,Weekday,13,Daytime Shoulder,4916.1,9334.05,0.7219
+NSW1,New South Wales,Autumn,Weekend,10,Daytime Shoulder,6915.13,9912.75,0.8292
+NSW1,New South Wales,Winter,Weekday,1,Off-Peak Night,7967.11,9999.23,0.9553
+TAS1,Tasmania,Winter,Weekend,16,Peak (4PM-9PM),1266.99,1535.34,2.2228
+VIC1,Victoria,Autumn,Weekend,11,Daytime Shoulder,4088.98,6909.7,0.6004
+VIC1,Victoria,Winter,Weekday,2,Off-Peak Night,4686.88,6296.09,0.6882
+QLD1,Queensland,Winter,Weekend,7,Daytime Shoulder,5621.67,6906.8,1.0296
+SA1,South Australia,Spring,Weekday,19,Peak (4PM-9PM),1603.35,2764.8,0.8667
+TAS1,Tasmania,Spring,Weekday,6,Off-Peak Night,1210.85,1525.43,2.1243
+SA1,South Australia,Spring,Weekend,3,Off-Peak Night,1140.4,1543.98,0.6164
+VIC1,Victoria,Summer,Weekend,0,Off-Peak Night,4498.35,6437.04,0.6605
+NSW1,New South Wales,Summer,Weekend,2,Off-Peak Night,6310.02,8387.66,0.7566
+QLD1,Queensland,Summer,Weekday,7,Daytime Shoulder,6245.79,7986.56,1.1439
+QLD1,Queensland,Autumn,Weekday,15,Daytime Shoulder,6616.9,9348.21,1.2119
+SA1,South Australia,Autumn,Weekday,21,Peak (4PM-9PM),1575.51,2511.13,0.8516
+VIC1,Victoria,Summer,Weekend,12,Daytime Shoulder,3976.86,8812.41,0.584
+NSW1,New South Wales,Winter,Weekend,17,Peak (4PM-9PM),9499.06,11557.24,1.139
+SA1,South Australia,Winter,Weekday,20,Peak (4PM-9PM),1984.5,2450.21,1.0727
+VIC1,Victoria,Winter,Weekend,21,Peak (4PM-9PM),5706.79,6758.65,0.838
+VIC1,Victoria,Winter,Weekday,9,Daytime Shoulder,6497.4,7939.21,0.9541
+NSW1,New South Wales,Spring,Weekday,7,Daytime Shoulder,7733.77,10492.54,0.9273
+NSW1,New South Wales,Spring,Weekday,22,Off-Peak Night,7763.97,10248.79,0.9309
+SA1,South Australia,Spring,Weekend,18,Peak (4PM-9PM),1357.48,2453.93,0.7338
+NSW1,New South Wales,Summer,Weekday,1,Off-Peak Night,6738.91,8891.88,0.808
+NSW1,New South Wales,Summer,Weekday,10,Daytime Shoulder,7898.54,12943.85,0.9471
+QLD1,Queensland,Summer,Weekend,18,Peak (4PM-9PM),7535.08,10223.0,1.3801
+QLD1,Queensland,Autumn,Weekend,10,Daytime Shoulder,5227.96,7064.53,0.9575
+TAS1,Tasmania,Summer,Weekday,9,Daytime Shoulder,1076.8,1347.12,1.8891
+VIC1,Victoria,Summer,Weekday,20,Peak (4PM-9PM),5505.66,9120.02,0.8085
+VIC1,Victoria,Summer,Weekend,9,Daytime Shoulder,3949.43,7730.41,0.5799
+VIC1,Victoria,Autumn,Weekend,3,Off-Peak Night,4013.19,5471.4,0.5893
+SA1,South Australia,Winter,Weekday,11,Daytime Shoulder,1414.34,2335.58,0.7645
+VIC1,Victoria,Winter,Weekday,6,Off-Peak Night,5396.44,7196.41,0.7924
+SA1,South Australia,Winter,Weekend,21,Peak (4PM-9PM),1734.21,2138.65,0.9374
+VIC1,Victoria,Winter,Weekend,20,Peak (4PM-9PM),5965.54,7113.15,0.876
+SA1,South Australia,Spring,Weekend,2,Off-Peak Night,1206.34,1607.17,0.6521
+NSW1,New South Wales,Summer,Weekend,1,Off-Peak Night,6647.89,9011.31,0.7971
+SA1,South Australia,Summer,Weekday,2,Off-Peak Night,1299.17,2036.95,0.7023
+VIC1,Victoria,Summer,Weekday,23,Off-Peak Night,4771.14,7362.64,0.7006
+VIC1,Victoria,Summer,Weekday,7,Daytime Shoulder,5058.54,8153.42,0.7428
+QLD1,Queensland,Winter,Weekend,21,Peak (4PM-9PM),6388.42,7312.17,1.17
+VIC1,Victoria,Winter,Weekday,4,Off-Peak Night,4479.08,5649.95,0.6577
+NSW1,New South Wales,Winter,Weekend,14,Daytime Shoulder,7355.25,10156.08,0.8819
+QLD1,Queensland,Spring,Weekday,11,Daytime Shoulder,5426.37,8190.88,0.9938
+VIC1,Victoria,Winter,Weekend,12,Daytime Shoulder,4671.88,6478.34,0.686
+NSW1,New South Wales,Autumn,Weekday,16,Peak (4PM-9PM),8709.97,13081.79,1.0444
+SA1,South Australia,Autumn,Weekday,10,Daytime Shoulder,1203.08,2566.46,0.6503
+TAS1,Tasmania,Summer,Weekend,15,Daytime Shoulder,1021.72,1274.43,1.7925
+TAS1,Tasmania,Summer,Weekend,14,Daytime Shoulder,994.68,1215.29,1.7451
+TAS1,Tasmania,Autumn,Weekday,23,Off-Peak Night,1059.07,1371.62,1.858
+VIC1,Victoria,Autumn,Weekday,1,Off-Peak Night,4459.68,6096.72,0.6549
+QLD1,Queensland,Autumn,Weekend,13,Daytime Shoulder,5375.77,7891.07,0.9846
+SA1,South Australia,Winter,Weekend,12,Daytime Shoulder,1110.79,1915.53,0.6004
+TAS1,Tasmania,Winter,Weekday,5,Off-Peak Night,1143.11,1502.73,2.0055
+TAS1,Tasmania,Winter,Weekday,23,Off-Peak Night,1177.92,1453.89,2.0665
+TAS1,Tasmania,Winter,Weekday,21,Peak (4PM-9PM),1344.03,1625.46,2.358
+QLD1,Queensland,Spring,Weekend,8,Daytime Shoulder,4880.18,6606.99,0.8938
+SA1,South Australia,Spring,Weekend,21,Peak (4PM-9PM),1373.38,2108.79,0.7424
+TAS1,Tasmania,Spring,Weekend,7,Daytime Shoulder,1109.52,1334.01,1.9465
+VIC1,Victoria,Spring,Weekday,15,Daytime Shoulder,4882.75,9280.82,0.717
+NSW1,New South Wales,Autumn,Weekend,23,Off-Peak Night,7358.15,9223.87,0.8823
+NSW1,New South Wales,Autumn,Weekday,20,Peak (4PM-9PM),8656.29,11772.05,1.0379
+QLD1,Queensland,Autumn,Weekday,1,Off-Peak Night,5451.17,6681.5,0.9984
+QLD1,Queensland,Autumn,Weekday,14,Daytime Shoulder,6256.83,8827.01,1.1459
+QLD1,Queensland,Autumn,Weekday,21,Peak (4PM-9PM),6737.55,8929.92,1.234
+SA1,South Australia,Summer,Weekend,10,Daytime Shoulder,885.05,2628.68,0.4784
+SA1,South Australia,Summer,Weekday,0,Off-Peak Night,1490.69,2513.04,0.8058
+SA1,South Australia,Summer,Weekend,3,Off-Peak Night,1208.13,1718.91,0.653
+SA1,South Australia,Autumn,Weekday,19,Peak (4PM-9PM),1734.19,2839.86,0.9374
+TAS1,Tasmania,Summer,Weekday,18,Peak (4PM-9PM),1142.09,1343.44,2.0037
+TAS1,Tasmania,Summer,Weekday,11,Daytime Shoulder,1037.22,1328.63,1.8197
+NSW1,New South Wales,Winter,Weekday,10,Daytime Shoulder,8768.44,12294.35,1.0514
+NSW1,New South Wales,Winter,Weekday,7,Daytime Shoulder,9718.27,11946.63,1.1653
+TAS1,Tasmania,Winter,Weekend,0,Off-Peak Night,1128.3,1374.83,1.9795
+QLD1,Queensland,Spring,Weekday,17,Peak (4PM-9PM),7101.25,9189.12,1.3006
+QLD1,Queensland,Spring,Weekday,18,Peak (4PM-9PM),7229.65,9163.01,1.3241
+VIC1,Victoria,Spring,Weekday,12,Daytime Shoulder,4556.33,8643.74,0.6691
+SA1,South Australia,Summer,Weekend,9,Daytime Shoulder,948.14,2427.2,0.5125
+NSW1,New South Wales,Autumn,Weekday,4,Off-Peak Night,6442.23,7536.53,0.7724
+QLD1,Queensland,Autumn,Weekday,7,Daytime Shoulder,6360.8,7650.16,1.165
+SA1,South Australia,Summer,Weekday,5,Off-Peak Night,1300.5,2012.16,0.703
+VIC1,Victoria,Summer,Weekday,2,Off-Peak Night,4152.04,6439.36,0.6097
+VIC1,Victoria,Autumn,Weekend,4,Off-Peak Night,3971.96,5208.92,0.5833
+NSW1,New South Wales,Autumn,Weekday,12,Daytime Shoulder,7507.6,11383.64,0.9002
+QLD1,Queensland,Winter,Weekday,23,Off-Peak Night,5976.71,6959.67,1.0946
+VIC1,Victoria,Winter,Weekday,14,Daytime Shoulder,5687.47,7956.8,0.8352
+QLD1,Queensland,Spring,Weekday,6,Off-Peak Night,5651.04,6805.39,1.035
+QLD1,Queensland,Spring,Weekend,15,Daytime Shoulder,5574.67,7625.4,1.021
+VIC1,Victoria,Spring,Weekday,19,Peak (4PM-9PM),5761.78,8374.96,0.8461
+VIC1,Victoria,Spring,Weekend,6,Off-Peak Night,4175.24,5303.35,0.6131
+NSW1,New South Wales,Summer,Weekday,9,Daytime Shoulder,7905.8,12510.01,0.9479
+SA1,South Australia,Summer,Weekend,18,Peak (4PM-9PM),1540.84,2897.78,0.8329
+SA1,South Australia,Autumn,Weekday,8,Daytime Shoulder,1454.38,2203.91,0.7861
+TAS1,Tasmania,Autumn,Weekend,21,Peak (4PM-9PM),1153.13,1468.59,2.023
+VIC1,Victoria,Summer,Weekday,11,Daytime Shoulder,4722.19,10221.45,0.6934
+VIC1,Victoria,Summer,Weekend,14,Daytime Shoulder,4235.4,8976.45,0.6219
+SA1,South Australia,Winter,Weekend,5,Off-Peak Night,1199.98,1480.71,0.6486
+TAS1,Tasmania,Winter,Weekend,18,Peak (4PM-9PM),1423.7,1661.76,2.4977
+QLD1,Queensland,Winter,Weekend,15,Daytime Shoulder,5398.28,6916.63,0.9887
+QLD1,Queensland,Spring,Weekday,1,Off-Peak Night,5271.04,6412.16,0.9654
+NSW1,New South Wales,Summer,Weekday,11,Daytime Shoulder,7943.25,13281.99,0.9524
+NSW1,New South Wales,Autumn,Weekend,11,Daytime Shoulder,6752.33,10049.26,0.8096
+QLD1,Queensland,Autumn,Weekday,17,Peak (4PM-9PM),7427.7,10118.85,1.3604
+SA1,South Australia,Summer,Weekend,23,Off-Peak Night,1381.51,2220.57,0.7468
+SA1,South Australia,Autumn,Weekday,14,Daytime Shoulder,1108.97,3021.19,0.5994
+TAS1,Tasmania,Autumn,Weekend,1,Off-Peak Night,1000.95,1207.75,1.756
+VIC1,Victoria,Summer,Weekday,1,Off-Peak Night,4319.1,6777.04,0.6342
+VIC1,Victoria,Summer,Weekday,21,Peak (4PM-9PM),5140.26,8826.16,0.7548
+NSW1,New South Wales,Winter,Weekday,22,Off-Peak Night,9299.15,11875.82,1.115
+NSW1,New South Wales,Spring,Weekend,20,Peak (4PM-9PM),7876.64,11475.04,0.9444
+QLD1,Queensland,Spring,Weekday,20,Peak (4PM-9PM),6918.42,8707.01,1.2671
+SA1,South Australia,Spring,Weekend,14,Daytime Shoulder,695.29,2601.82,0.3758
+TAS1,Tasmania,Spring,Weekday,23,Off-Peak Night,1049.13,1329.18,1.8406
+VIC1,Victoria,Winter,Weekend,1,Off-Peak Night,4913.47,6422.75,0.7215
+NSW1,New South Wales,Spring,Weekend,16,Peak (4PM-9PM),7346.47,12191.79,0.8809
+NSW1,New South Wales,Summer,Weekday,21,Peak (4PM-9PM),8315.46,12490.71,0.9971
+NSW1,New South Wales,Autumn,Weekday,2,Off-Peak Night,6594.4,8684.18,0.7907
+TAS1,Tasmania,Autumn,Weekday,16,Peak (4PM-9PM),1166.67,1524.42,2.0468
+TAS1,Tasmania,Autumn,Weekend,19,Peak (4PM-9PM),1230.63,1545.55,2.159
+VIC1,Victoria,Winter,Weekend,19,Peak (4PM-9PM),6211.34,7334.47,0.9121
+QLD1,Queensland,Winter,Weekday,16,Peak (4PM-9PM),6482.79,8451.88,1.1873
+QLD1,Queensland,Spring,Weekday,15,Daytime Shoulder,6270.43,8592.82,1.1484
+SA1,South Australia,Spring,Weekday,6,Off-Peak Night,1314.52,1773.61,0.7106
+TAS1,Tasmania,Winter,Weekend,6,Off-Peak Night,1136.38,1417.21,1.9936
+TAS1,Tasmania,Spring,Weekend,15,Daytime Shoulder,1051.04,1314.18,1.8439
+NSW1,New South Wales,Autumn,Weekday,15,Daytime Shoulder,8196.05,12138.28,0.9827
+QLD1,Queensland,Summer,Weekend,15,Daytime Shoulder,6584.86,9168.39,1.206
+SA1,South Australia,Autumn,Weekday,16,Peak (4PM-9PM),1357.99,3079.82,0.734
+TAS1,Tasmania,Summer,Weekend,21,Peak (4PM-9PM),1087.01,1240.34,1.907
+TAS1,Tasmania,Autumn,Weekday,3,Off-Peak Night,996.32,1272.57,1.7479
+TAS1,Tasmania,Autumn,Weekend,16,Peak (4PM-9PM),1134.72,1491.16,1.9907
+NSW1,New South Wales,Spring,Weekend,6,Off-Peak Night,6336.53,7952.19,0.7598
+QLD1,Queensland,Winter,Weekday,15,Daytime Shoulder,5935.3,8023.6,1.0871
+TAS1,Tasmania,Spring,Weekday,2,Off-Peak Night,1001.77,1250.97,1.7575
+VIC1,Victoria,Spring,Weekend,15,Daytime Shoulder,3994.26,7279.54,0.5865
+VIC1,Victoria,Spring,Weekend,19,Peak (4PM-9PM),5217.76,6593.22,0.7662
+SA1,South Australia,Spring,Weekday,8,Daytime Shoulder,1264.12,2222.27,0.6833
+VIC1,Victoria,Spring,Weekend,10,Daytime Shoulder,3835.5,6575.9,0.5632
