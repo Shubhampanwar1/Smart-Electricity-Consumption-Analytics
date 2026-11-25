@@ -125,6 +125,6 @@ This project demonstrates how Apache Spark and Databricks can turn raw, multi-de
 
 ## Team Members
 
-* **Shubham Panwar**
-* **Siddiy Khan** 
+* **Shubham**
+* **Siddiq Khan** 
 * **Aaditya Saini**
